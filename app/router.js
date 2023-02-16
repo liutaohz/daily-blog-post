@@ -8,4 +8,5 @@ module.exports = app => {
   router.get('/', controller.home.index);
   router.post('/echo', controller.home.echoPost);
   router.get('/echo', controller.home.echoGet);
+  router.get('/task', controller.task.index);
 };

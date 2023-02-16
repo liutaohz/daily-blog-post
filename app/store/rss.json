@@ -1,0 +1,15 @@
+[
+  {
+    "title": "Node-Weekly",
+    "rss": "https://cprss.s3.amazonaws.com/nodeweekly.com.xml"
+  },
+  {
+    "title": "JavaScript-Weekly",
+    "rss": "https://cprss.s3.amazonaws.com/javascriptweekly.com.xml"
+  },
+  {
+    "id": "taobaofed",
+    "title": "淘系前端团队",
+    "rss": "https://fed.taobao.org/atom.xml"
+  }
+]

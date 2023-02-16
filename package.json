@@ -7,8 +7,13 @@
     "declarations": true
   },
   "dependencies": {
+    "async": "^3.2.4",
+    "dayjs": "^1.11.7",
     "egg": "^3",
-    "egg-scripts": "^2"
+    "egg-scripts": "^2",
+    "handlebars": "^4.7.7",
+    "query-string": "6.8.1",
+    "rss-parser": "^3.12.0"
   },
   "devDependencies": {
     "egg-bin": "^5",

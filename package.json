@@ -26,7 +26,7 @@
     "node": ">=16.0.0"
   },
   "scripts": {
-    "start": "egg-scripts start --daemon --title=egg-server-daily-blog-post --workers=1",
+    "start": "egg-scripts start --workers=1 --daemon --title=egg-server-daily-blog-post ",
     "stop": "egg-scripts stop --title=egg-server-daily-blog-post",
     "dev": "egg-bin dev",
     "debug": "egg-bin debug",

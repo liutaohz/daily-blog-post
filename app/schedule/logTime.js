@@ -6,7 +6,7 @@ class logTime extends Subscription {
   // 通过 schedule 属性来设置定时任务的执行间隔等配置
   static get schedule() {
     return {
-      cron: '0 42 6,12,14,18,21 * * ?', // 每天的2点10分执行一次
+      cron: '0 0 6,12,18,21 * * ?', // 每天的2点10分执行一次
       type: 'worker',
     };
   }

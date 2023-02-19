@@ -13,7 +13,7 @@
 
 ## 文章来源
 {{#each linksJson}}
-- [{{title}}](#{{title}}>)
+- [{{title}}](#{{title}})
 {{/each}}
 
 ## 文章链接

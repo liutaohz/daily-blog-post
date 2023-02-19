@@ -88,7 +88,7 @@ function dailyTask() {
     })());
   });
   function gitTash() {
-    const command = `cd ${PATH_WORK} &&git add . && git commit -m ":pencil: 更新抓取文章信息" && git push -u origin main`;
+    const command = `cd ${PATH_WORK} &&git add . &&git commit -m ":pencil: 更新抓取文章信息"&&git push -u origin main`;
     const workerProcess = exec(
       command,
       { timeout: 6000 },

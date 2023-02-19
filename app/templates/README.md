@@ -24,8 +24,7 @@
 </summary>
 
 {{#each items}}
-- [{{date}}-{{title}}]({{link}})  
-
+- [{{date}}-{{title}}]({{link}})
 {{/each}}
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>

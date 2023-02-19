@@ -88,10 +88,11 @@ function dailyTask() {
     })());
   });
   function gitTash() {
-    const command = `cd ${PATH_WORK} &&git add . &&git commit -m ":pencil: 更新抓取文章信息"&&git push -u origin main`;
+    // const command = `cd ${PATH_WORK} &&git add . &&git commit -m ":pencil: 更新抓取文章信息"&&git push -u origin main`;
+    const command = `cd ${PATH_WORK} &&npm run gittask`;
     const workerProcess = exec(
       command,
-      { timeout: 6000 },
+      { timeout: 10000 },
       (error, stdout, stderr) => {
         if (error) {
           console.log('gitTash--error:', error);
@@ -118,13 +119,14 @@ function dailyTask() {
           spaces: 2,
         });
         await writemd(newData, linksJson); // 根据数据和Handlebars语法生成文件，编写MD模版
-        gitTash(); // 更新文件推送到github上
+        // gitTash(); // 更新文件推送到github上
       } catch (e) {
         console.warn('🚀 ~ e', e);
       }
     } else {
       console.log('无需更新');
     }
+    gitTash();
     rssJson = null;
     linksJson = null;
     newData = null;

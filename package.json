@@ -27,6 +27,7 @@
   },
   "scripts": {
     "start": "egg-scripts start --workers=1 --daemon --title=egg-server-daily-blog-post ",
+    "gittask": "sh gittask.sh",
     "stop": "egg-scripts stop --title=egg-server-daily-blog-post",
     "dev": "egg-bin dev",
     "debug": "egg-bin debug",

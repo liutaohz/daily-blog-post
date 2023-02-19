@@ -91,7 +91,7 @@ function dailyTask() {
     const command = `cd ${PATH_WORK} &&git add . && git commit -m ":pencil: 更新抓取文章信息" && git pull && git push`;
     const workerProcess = exec(
       command,
-      { timeout: 1000 },
+      { timeout: 10000 },
       (error, stdout, stderr) => {
         if (error) {
           console.log('gitTash--error:', error);

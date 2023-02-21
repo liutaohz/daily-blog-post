@@ -153,5 +153,115 @@
         "date": "2020-08-20"
       }
     ]
+  },
+  {
+    "title": "奇舞周刊",
+    "items": [
+      {
+        "title": "奇舞周刊第 482 期",
+        "link": "https://weekly.75.team/issue482.html",
+        "date": "2023-02-17"
+      },
+      {
+        "title": "奇舞周刊第 481 期",
+        "link": "https://weekly.75.team/issue481.html",
+        "date": "2023-02-10"
+      },
+      {
+        "title": "奇舞周刊第 479 期",
+        "link": "https://weekly.75.team/issue479.html",
+        "date": "2023-01-14"
+      },
+      {
+        "title": "奇舞周刊第 480 期",
+        "link": "https://weekly.75.team/issue480.html",
+        "date": "2023-01-14"
+      },
+      {
+        "title": "奇舞周刊第 478 期",
+        "link": "https://weekly.75.team/issue478.html",
+        "date": "2023-01-06"
+      },
+      {
+        "title": "奇舞周刊第 477 期",
+        "link": "https://weekly.75.team/issue477.html",
+        "date": "2022-12-30"
+      },
+      {
+        "title": "奇舞周刊第 476 期",
+        "link": "https://weekly.75.team/issue476.html",
+        "date": "2022-12-16"
+      },
+      {
+        "title": "奇舞周刊第 475 期",
+        "link": "https://weekly.75.team/issue475.html",
+        "date": "2022-12-09"
+      },
+      {
+        "title": "奇舞周刊第 474 期",
+        "link": "https://weekly.75.team/issue474.html",
+        "date": "2022-12-02"
+      },
+      {
+        "title": "奇舞周刊第 473 期",
+        "link": "https://weekly.75.team/issue473.html",
+        "date": "2022-11-25"
+      }
+    ]
+  },
+  {
+    "title": "美团技术团队",
+    "items": [
+      {
+        "title": "交互式推荐在外卖场景的探索与应用",
+        "link": "https://tech.meituan.com/2023/02/17/interactive-recommendation-system-for-meituan-waimai.html",
+        "date": "2023-02-17"
+      },
+      {
+        "title": "美团视觉GPU推理服务部署架构优化实践",
+        "link": "https://tech.meituan.com/2023/02/09/inference-optimization-on-gpu-by-meituan-vision.html",
+        "date": "2023-02-09"
+      },
+      {
+        "title": "Code：美团代码托管平台的演进与实践",
+        "link": "https://tech.meituan.com/2023/02/02/code-the-evolution-and-practice-of-meituan-code-repositories-platform.html",
+        "date": "2023-02-02"
+      },
+      {
+        "title": "美团技术年货来了！1300+页的电子书，涵盖前端、后端、算法、数据、运维、安全",
+        "link": "https://tech.meituan.com/2023/01/13/2022-spring-festival-present.html",
+        "date": "2023-01-13"
+      },
+      {
+        "title": "美团开放平台SDK自动生成技术与实践",
+        "link": "https://tech.meituan.com/2023/01/05/openplatform-sdk-auto-generate.html",
+        "date": "2023-01-05"
+      },
+      {
+        "title": "2022年 | 美团技术团队公众号最受欢迎的20篇文章",
+        "link": "https://tech.meituan.com/2022/12/30/2022-summary.html",
+        "date": "2022-12-30"
+      },
+      {
+        "title": "美团外卖推荐情境化智能流量分发的实践与探索",
+        "link": "https://tech.meituan.com/2022/12/08/scenario-aware-ranking-model-for-personalized-recommender-system.html",
+        "date": "2022-12-08"
+      },
+      {
+        "title": "美团SemEval2022结构化情感分析跨语言赛道冠军方法总结",
+        "link": "https://tech.meituan.com/2022/11/24/mt-speech-at-semeval-2022-task-10-structured-sentiment-analysis.html",
+        "date": "2022-11-24"
+      },
+      {
+        "title": "清华大学课题组联合美团研发无人机声波定位技术获顶会大奖",
+        "link": "https://tech.meituan.com/2022/11/24/acm-sensys-best-paper-runner-up.html",
+        "date": "2022-11-24"
+      },
+      {
+        "title": "大规模异构图召回在美团到店推荐广告的应用",
+        "link": "https://tech.meituan.com/2022/11/24/application-of-large-scale-heterogeneous-graph-in-meituan-recommended-ads.html",
+        "date": "2022-11-24"
+      }
+    ]
   }
 ]

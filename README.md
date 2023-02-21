@@ -9,12 +9,14 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-02-19 13:31，:rocket: 更新条数: +28
+:alarm_clock: 更新时间: 2023-02-21 09:54，:rocket: 更新条数: +20
 
 ## 文章来源
 - [Node-Weekly](#Node-Weekly)
 - [JavaScript-Weekly](#JavaScript-Weekly)
 - [淘系前端团队](#淘系前端团队)
+- [奇舞周刊](#奇舞周刊)
+- [美团技术团队](#美团技术团队)
 
 ## 文章链接
 <details open>
@@ -66,6 +68,42 @@ JavaScript-Weekly
 - [2020-08-25-如何在应用架构中设计微前端方案 - icestark](https://fed.taobao.org/blog/taofed/do71ct/xgmaz3)
 - [2020-08-21-阿里实习 90 天：从实习生的视角谈谈个人成长](https://fed.taobao.org/blog/taofed/do71ct/acbnym)
 - [2020-08-20-什么是人工智能自动编程？它只是一个噱头吗？](https://fed.taobao.org/blog/taofed/do71ct/clcgcc)
+
+<div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
+</details>
+<details open>
+<summary id="奇舞周刊">
+奇舞周刊
+</summary>
+
+- [2023-02-17-奇舞周刊第 482 期](https://weekly.75.team/issue482.html)
+- [2023-02-10-奇舞周刊第 481 期](https://weekly.75.team/issue481.html)
+- [2023-01-14-奇舞周刊第 479 期](https://weekly.75.team/issue479.html)
+- [2023-01-14-奇舞周刊第 480 期](https://weekly.75.team/issue480.html)
+- [2023-01-06-奇舞周刊第 478 期](https://weekly.75.team/issue478.html)
+- [2022-12-30-奇舞周刊第 477 期](https://weekly.75.team/issue477.html)
+- [2022-12-16-奇舞周刊第 476 期](https://weekly.75.team/issue476.html)
+- [2022-12-09-奇舞周刊第 475 期](https://weekly.75.team/issue475.html)
+- [2022-12-02-奇舞周刊第 474 期](https://weekly.75.team/issue474.html)
+- [2022-11-25-奇舞周刊第 473 期](https://weekly.75.team/issue473.html)
+
+<div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
+</details>
+<details open>
+<summary id="美团技术团队">
+美团技术团队
+</summary>
+
+- [2023-02-17-交互式推荐在外卖场景的探索与应用](https://tech.meituan.com/2023/02/17/interactive-recommendation-system-for-meituan-waimai.html)
+- [2023-02-09-美团视觉GPU推理服务部署架构优化实践](https://tech.meituan.com/2023/02/09/inference-optimization-on-gpu-by-meituan-vision.html)
+- [2023-02-02-Code：美团代码托管平台的演进与实践](https://tech.meituan.com/2023/02/02/code-the-evolution-and-practice-of-meituan-code-repositories-platform.html)
+- [2023-01-13-美团技术年货来了！1300+页的电子书，涵盖前端、后端、算法、数据、运维、安全](https://tech.meituan.com/2023/01/13/2022-spring-festival-present.html)
+- [2023-01-05-美团开放平台SDK自动生成技术与实践](https://tech.meituan.com/2023/01/05/openplatform-sdk-auto-generate.html)
+- [2022-12-30-2022年 | 美团技术团队公众号最受欢迎的20篇文章](https://tech.meituan.com/2022/12/30/2022-summary.html)
+- [2022-12-08-美团外卖推荐情境化智能流量分发的实践与探索](https://tech.meituan.com/2022/12/08/scenario-aware-ranking-model-for-personalized-recommender-system.html)
+- [2022-11-24-美团SemEval2022结构化情感分析跨语言赛道冠军方法总结](https://tech.meituan.com/2022/11/24/mt-speech-at-semeval-2022-task-10-structured-sentiment-analysis.html)
+- [2022-11-24-清华大学课题组联合美团研发无人机声波定位技术获顶会大奖](https://tech.meituan.com/2022/11/24/acm-sensys-best-paper-runner-up.html)
+- [2022-11-24-大规模异构图召回在美团到店推荐广告的应用](https://tech.meituan.com/2022/11/24/application-of-large-scale-heterogeneous-graph-in-meituan-recommended-ads.html)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
 </details>

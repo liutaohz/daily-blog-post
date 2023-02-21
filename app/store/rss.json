@@ -11,5 +11,15 @@
     "id": "taobaofed",
     "title": "淘系前端团队",
     "rss": "https://fed.taobao.org/atom.xml"
+  },
+  {
+    "id": "weekly75",
+    "title": "奇舞周刊",
+    "rss": "https://weekly.75.team/rss"
+  },
+  {
+    "id": "meituan",
+    "title": "美团技术团队",
+    "rss": "https://tech.meituan.com/feed/"
   }
 ]

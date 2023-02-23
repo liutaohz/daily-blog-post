@@ -9,7 +9,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-02-21 09:54，:rocket: 更新条数: +20
+:alarm_clock: 更新时间: 2023-02-24 06:30，:rocket: 更新条数: +1
 
 ## 文章来源
 - [Node-Weekly](#Node-Weekly)
@@ -24,6 +24,7 @@
 Node-Weekly
 </summary>
 
+- [2023-02-23-Single executable apps come to Node core](https://nodeweekly.com/issues/475)
 - [2023-02-16-Automatic integration tests for Express apps](https://nodeweekly.com/issues/474)
 - [2023-02-09-Node gets a new URL parser](https://nodeweekly.com/issues/473)
 - [2023-02-02-SQL in your JavaScript](https://nodeweekly.com/issues/472)

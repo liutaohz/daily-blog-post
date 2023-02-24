@@ -9,7 +9,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-02-24 18:30，:rocket: 更新条数: +1
+:alarm_clock: 更新时间: 2023-02-25 06:30，:rocket: 更新条数: +1
 
 ## 文章来源
 - [Node-Weekly](#Node-Weekly)
@@ -37,6 +37,7 @@ Node-Weekly
 JavaScript-Weekly
 </summary>
 
+- [2023-02-24-ECMAScript 2023 for President](https://javascriptweekly.com/issues/627)
 - [2023-02-17-JavaScript sans build systems?](https://javascriptweekly.com/issues/626)
 - [2023-02-10-Bringing JavaScript to WebAssembly](https://javascriptweekly.com/issues/625)
 - [2023-02-03-Ways to remove event listeners](https://javascriptweekly.com/issues/624)

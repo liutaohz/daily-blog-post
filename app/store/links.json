@@ -33,6 +33,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "ECMAScript 2023 for President",
+        "link": "https://javascriptweekly.com/issues/627",
+        "date": "2023-02-24"
+      },
+      {
         "title": "JavaScript sans build systems?",
         "link": "https://javascriptweekly.com/issues/626",
         "date": "2023-02-17"

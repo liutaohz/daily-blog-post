@@ -3,6 +3,11 @@
     "title": "Node-Weekly",
     "items": [
       {
+        "title": "Playing in the sandbox",
+        "link": "https://nodeweekly.com/issues/476",
+        "date": "2023-03-02"
+      },
+      {
         "title": "Single executable apps come to Node core",
         "link": "https://nodeweekly.com/issues/475",
         "date": "2023-02-23"

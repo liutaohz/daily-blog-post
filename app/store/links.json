@@ -43,6 +43,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "New JavaScript features of the past few years",
+        "link": "https://javascriptweekly.com/issues/629",
+        "date": "2023-03-10"
+      },
+      {
         "title": "Garbage collector experiments",
         "link": "https://javascriptweekly.com/issues/628",
         "date": "2023-03-03"

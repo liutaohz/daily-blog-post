@@ -9,7 +9,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-03-10 18:30，:rocket: 更新条数: +1
+:alarm_clock: 更新时间: 2023-03-11 06:30，:rocket: 更新条数: +1
 
 ## 文章来源
 - [Node-Weekly](#Node-Weekly)
@@ -39,6 +39,7 @@ Node-Weekly
 JavaScript-Weekly
 </summary>
 
+- [2023-03-10-New JavaScript features of the past few years](https://javascriptweekly.com/issues/629)
 - [2023-03-03-Garbage collector experiments](https://javascriptweekly.com/issues/628)
 - [2023-02-24-ECMAScript 2023 for President](https://javascriptweekly.com/issues/627)
 - [2023-02-17-JavaScript sans build systems?](https://javascriptweekly.com/issues/626)

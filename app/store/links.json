@@ -248,6 +248,11 @@
     "title": "美团技术团队",
     "items": [
       {
+        "title": "MRCP在美团语音交互中的实践和应用",
+        "link": "https://tech.meituan.com/2023/03/09/practice-and-application-of-mrcp-in-voice-interaction-of-meituan.html",
+        "date": "2023-03-09"
+      },
+      {
         "title": "SOTA！目标检测开源框架YOLOv6 3.0版本来啦",
         "link": "https://tech.meituan.com/2023/03/02/yolov6-sota-real-time-object-detection-on-coco.html",
         "date": "2023-03-02"
@@ -293,8 +298,8 @@
         "date": "2022-12-08"
       },
       {
-        "title": "美团SemEval2022结构化情感分析跨语言赛道冠军方法总结",
-        "link": "https://tech.meituan.com/2022/11/24/mt-speech-at-semeval-2022-task-10-structured-sentiment-analysis.html",
+        "title": "大规模异构图召回在美团到店推荐广告的应用",
+        "link": "https://tech.meituan.com/2022/11/24/application-of-large-scale-heterogeneous-graph-in-meituan-recommended-ads.html",
         "date": "2022-11-24"
       },
       {
@@ -303,8 +308,8 @@
         "date": "2022-11-24"
       },
       {
-        "title": "大规模异构图召回在美团到店推荐广告的应用",
-        "link": "https://tech.meituan.com/2022/11/24/application-of-large-scale-heterogeneous-graph-in-meituan-recommended-ads.html",
+        "title": "美团SemEval2022结构化情感分析跨语言赛道冠军方法总结",
+        "link": "https://tech.meituan.com/2022/11/24/mt-speech-at-semeval-2022-task-10-structured-sentiment-analysis.html",
         "date": "2022-11-24"
       }
     ]

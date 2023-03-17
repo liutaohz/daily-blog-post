@@ -48,6 +48,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "Transformers: JavaScript in Disguise",
+        "link": "https://javascriptweekly.com/issues/630",
+        "date": "2023-03-17"
+      },
+      {
         "title": "New JavaScript features of the past few years",
         "link": "https://javascriptweekly.com/issues/629",
         "date": "2023-03-10"

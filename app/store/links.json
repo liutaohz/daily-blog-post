@@ -3,6 +3,11 @@
     "title": "Node-Weekly",
     "items": [
       {
+        "title": "Node.js challengers gaining ground",
+        "link": "https://nodeweekly.com/issues/479",
+        "date": "2023-03-23"
+      },
+      {
         "title": "Shell-free scripting from Node",
         "link": "https://nodeweekly.com/issues/478",
         "date": "2023-03-16"

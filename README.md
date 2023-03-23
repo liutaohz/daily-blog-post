@@ -9,7 +9,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-03-18 06:30，:rocket: 更新条数: +1
+:alarm_clock: 更新时间: 2023-03-24 06:30，:rocket: 更新条数: +1
 
 ## 文章来源
 - [Node-Weekly](#Node-Weekly)
@@ -24,6 +24,7 @@
 Node-Weekly
 </summary>
 
+- [2023-03-23-Node.js challengers gaining ground](https://nodeweekly.com/issues/479)
 - [2023-03-16-Shell-free scripting from Node](https://nodeweekly.com/issues/478)
 - [2023-03-09-Taking flight with Feathers 5](https://nodeweekly.com/issues/477)
 - [2023-03-02-Playing in the sandbox](https://nodeweekly.com/issues/476)

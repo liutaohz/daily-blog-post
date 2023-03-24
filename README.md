@@ -9,7 +9,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-03-24 06:30，:rocket: 更新条数: +1
+:alarm_clock: 更新时间: 2023-03-24 12:30，:rocket: 更新条数: +1
 
 ## 文章来源
 - [Node-Weekly](#Node-Weekly)
@@ -107,6 +107,7 @@ JavaScript-Weekly
 美团技术团队
 </summary>
 
+- [2023-03-23-ICDE 2023 | 多场景多任务学习在美团到店餐饮推荐的实践](https://tech.meituan.com/2023/03/23/recommendation-multi-scenario-task.html)
 - [2023-03-09-MRCP在美团语音交互中的实践和应用](https://tech.meituan.com/2023/03/09/practice-and-application-of-mrcp-in-voice-interaction-of-meituan.html)
 - [2023-03-02-SOTA！目标检测开源框架YOLOv6 3.0版本来啦](https://tech.meituan.com/2023/03/02/yolov6-sota-real-time-object-detection-on-coco.html)
 - [2023-02-23-大规模食品图像识别：T-PAMI 2023论文解读](https://tech.meituan.com/2023/02/23/large-scale-visual-food-recognition.html)
@@ -117,9 +118,9 @@ JavaScript-Weekly
 - [2023-01-05-美团开放平台SDK自动生成技术与实践](https://tech.meituan.com/2023/01/05/openplatform-sdk-auto-generate.html)
 - [2022-12-30-2022年 | 美团技术团队公众号最受欢迎的20篇文章](https://tech.meituan.com/2022/12/30/2022-summary.html)
 - [2022-12-08-美团外卖推荐情境化智能流量分发的实践与探索](https://tech.meituan.com/2022/12/08/scenario-aware-ranking-model-for-personalized-recommender-system.html)
-- [2022-11-24-大规模异构图召回在美团到店推荐广告的应用](https://tech.meituan.com/2022/11/24/application-of-large-scale-heterogeneous-graph-in-meituan-recommended-ads.html)
-- [2022-11-24-清华大学课题组联合美团研发无人机声波定位技术获顶会大奖](https://tech.meituan.com/2022/11/24/acm-sensys-best-paper-runner-up.html)
 - [2022-11-24-美团SemEval2022结构化情感分析跨语言赛道冠军方法总结](https://tech.meituan.com/2022/11/24/mt-speech-at-semeval-2022-task-10-structured-sentiment-analysis.html)
+- [2022-11-24-清华大学课题组联合美团研发无人机声波定位技术获顶会大奖](https://tech.meituan.com/2022/11/24/acm-sensys-best-paper-runner-up.html)
+- [2022-11-24-大规模异构图召回在美团到店推荐广告的应用](https://tech.meituan.com/2022/11/24/application-of-large-scale-heterogeneous-graph-in-meituan-recommended-ads.html)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
 </details>

@@ -53,6 +53,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "Playwright now offers a UI mode",
+        "link": "https://javascriptweekly.com/issues/631",
+        "date": "2023-03-24"
+      },
+      {
         "title": "Transformers: JavaScript in Disguise",
         "link": "https://javascriptweekly.com/issues/630",
         "date": "2023-03-17"

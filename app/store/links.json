@@ -3,6 +3,11 @@
     "title": "Node-Weekly",
     "items": [
       {
+        "title": "Optimizing npm script performance",
+        "link": "https://nodeweekly.com/issues/480",
+        "date": "2023-03-30"
+      },
+      {
         "title": "Node.js challengers gaining ground",
         "link": "https://nodeweekly.com/issues/479",
         "date": "2023-03-23"

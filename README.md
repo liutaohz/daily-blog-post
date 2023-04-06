@@ -9,7 +9,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-04-01 06:30，:rocket: 更新条数: +1
+:alarm_clock: 更新时间: 2023-04-07 06:30，:rocket: 更新条数: +1
 
 ## 文章来源
 - [Node-Weekly](#Node-Weekly)
@@ -42,6 +42,7 @@ Node-Weekly
 JavaScript-Weekly
 </summary>
 
+- [2023-04-06-JavaScript on your schedule](https://javascriptweekly.com/issues/633)
 - [2023-03-31-Import maps go universal](https://javascriptweekly.com/issues/632)
 - [2023-03-24-Playwright now offers a UI mode](https://javascriptweekly.com/issues/631)
 - [2023-03-17-Transformers: JavaScript in Disguise](https://javascriptweekly.com/issues/630)

@@ -58,6 +58,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "JavaScript on your schedule",
+        "link": "https://javascriptweekly.com/issues/633",
+        "date": "2023-04-06"
+      },
+      {
         "title": "Import maps go universal",
         "link": "https://javascriptweekly.com/issues/632",
         "date": "2023-03-31"

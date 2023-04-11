@@ -9,7 +9,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-04-07 18:30，:rocket: 更新条数: +1
+:alarm_clock: 更新时间: 2023-04-12 06:30，:rocket: 更新条数: +1
 
 ## 文章来源
 - [Node-Weekly](#Node-Weekly)
@@ -24,6 +24,7 @@
 Node-Weekly
 </summary>
 
+- [2023-04-11-The state of Node.js in 2023](https://nodeweekly.com/issues/481)
 - [2023-03-30-Optimizing npm script performance](https://nodeweekly.com/issues/480)
 - [2023-03-23-Node.js challengers gaining ground](https://nodeweekly.com/issues/479)
 - [2023-03-16-Shell-free scripting from Node](https://nodeweekly.com/issues/478)

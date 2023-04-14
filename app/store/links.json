@@ -323,6 +323,11 @@
     "title": "美团技术团队",
     "items": [
       {
+        "title": "人机语音交互场景中的低延迟流式语音识别技术",
+        "link": "https://tech.meituan.com/2023/04/13/low-latency-streaming-speech-recognition-in-human-computer-speech-interaction-scenarios.html",
+        "date": "2023-04-13"
+      },
+      {
         "title": "基于AI+数据驱动的慢查询索引推荐",
         "link": "https://tech.meituan.com/2023/04/06/slow-query-optimized-driven-by-ai-data.html",
         "date": "2023-04-06"
@@ -383,8 +388,8 @@
         "date": "2022-12-08"
       },
       {
-        "title": "大规模异构图召回在美团到店推荐广告的应用",
-        "link": "https://tech.meituan.com/2022/11/24/application-of-large-scale-heterogeneous-graph-in-meituan-recommended-ads.html",
+        "title": "美团SemEval2022结构化情感分析跨语言赛道冠军方法总结",
+        "link": "https://tech.meituan.com/2022/11/24/mt-speech-at-semeval-2022-task-10-structured-sentiment-analysis.html",
         "date": "2022-11-24"
       },
       {
@@ -393,8 +398,8 @@
         "date": "2022-11-24"
       },
       {
-        "title": "美团SemEval2022结构化情感分析跨语言赛道冠军方法总结",
-        "link": "https://tech.meituan.com/2022/11/24/mt-speech-at-semeval-2022-task-10-structured-sentiment-analysis.html",
+        "title": "大规模异构图召回在美团到店推荐广告的应用",
+        "link": "https://tech.meituan.com/2022/11/24/application-of-large-scale-heterogeneous-graph-in-meituan-recommended-ads.html",
         "date": "2022-11-24"
       }
     ]

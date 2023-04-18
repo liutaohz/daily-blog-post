@@ -9,7 +9,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-04-14 12:30，:rocket: 更新条数: +1
+:alarm_clock: 更新时间: 2023-04-19 06:30，:rocket: 更新条数: +1
 
 ## 文章来源
 - [Node-Weekly](#Node-Weekly)
@@ -24,6 +24,7 @@
 Node-Weekly
 </summary>
 
+- [2023-04-18-Node v20 released](https://nodeweekly.com/issues/482)
 - [2023-04-11-The state of Node.js in 2023](https://nodeweekly.com/issues/481)
 - [2023-03-30-Optimizing npm script performance](https://nodeweekly.com/issues/480)
 - [2023-03-23-Node.js challengers gaining ground](https://nodeweekly.com/issues/479)

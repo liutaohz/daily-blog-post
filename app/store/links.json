@@ -78,6 +78,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "'It's a miracle anything about this ecosystem works at all.'",
+        "link": "https://javascriptweekly.com/issues/637",
+        "date": "2023-05-04"
+      },
+      {
         "title": "Did you know JavaScript is trademarked?",
         "link": "https://javascriptweekly.com/issues/636",
         "date": "2023-04-27"

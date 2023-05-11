@@ -9,7 +9,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-05-09 21:30，:rocket: 更新条数: +1
+:alarm_clock: 更新时间: 2023-05-12 06:30，:rocket: 更新条数: +1
 
 ## 文章来源
 - [Node-Weekly](#Node-Weekly)
@@ -47,6 +47,7 @@ Node-Weekly
 JavaScript-Weekly
 </summary>
 
+- [2023-05-11-Why Svelte is converting TypeScript to JSDoc](https://javascriptweekly.com/issues/638)
 - [2023-05-04-&#x27;It&#x27;s a miracle anything about this ecosystem works at all.&#x27;](https://javascriptweekly.com/issues/637)
 - [2023-04-27-Did you know JavaScript is trademarked?](https://javascriptweekly.com/issues/636)
 - [2023-04-20-On the origin of packages](https://javascriptweekly.com/issues/635)

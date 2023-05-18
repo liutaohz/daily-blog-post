@@ -88,6 +88,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "jQuery lives on; major changes teased",
+        "link": "https://javascriptweekly.com/issues/639",
+        "date": "2023-05-18"
+      },
+      {
         "title": "Why Svelte is converting TypeScript to JSDoc",
         "link": "https://javascriptweekly.com/issues/638",
         "date": "2023-05-11"

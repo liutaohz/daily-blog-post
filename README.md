@@ -9,7 +9,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-05-19 06:30，:rocket: 更新条数: +1
+:alarm_clock: 更新时间: 2023-05-19 12:30，:rocket: 更新条数: +1
 
 ## 文章来源
 - [Node-Weekly](#Node-Weekly)
@@ -128,6 +128,7 @@ JavaScript-Weekly
 美团技术团队
 </summary>
 
+- [2023-05-18-Robust 2.0：支持Android R8的升级版热修复框架](https://tech.meituan.com/2023/05/18/robust-2.0-android-r8.html)
 - [2023-05-11-超大规模数据库集群保稳系列之一：高可用系统](https://tech.meituan.com/2023/05/11/meituan-high-availability-system.html)
 - [2023-04-20-一次「找回」TraceId的问题分析与过程思考](https://tech.meituan.com/2023/04/20/traceid-google-dapper-mtrace.html)
 - [2023-04-13-人机语音交互场景中的低延迟流式语音识别技术](https://tech.meituan.com/2023/04/13/low-latency-streaming-speech-recognition-in-human-computer-speech-interaction-scenarios.html)
@@ -143,9 +144,9 @@ JavaScript-Weekly
 - [2023-01-05-美团开放平台SDK自动生成技术与实践](https://tech.meituan.com/2023/01/05/openplatform-sdk-auto-generate.html)
 - [2022-12-30-2022年 | 美团技术团队公众号最受欢迎的20篇文章](https://tech.meituan.com/2022/12/30/2022-summary.html)
 - [2022-12-08-美团外卖推荐情境化智能流量分发的实践与探索](https://tech.meituan.com/2022/12/08/scenario-aware-ranking-model-for-personalized-recommender-system.html)
-- [2022-11-24-美团SemEval2022结构化情感分析跨语言赛道冠军方法总结](https://tech.meituan.com/2022/11/24/mt-speech-at-semeval-2022-task-10-structured-sentiment-analysis.html)
-- [2022-11-24-清华大学课题组联合美团研发无人机声波定位技术获顶会大奖](https://tech.meituan.com/2022/11/24/acm-sensys-best-paper-runner-up.html)
 - [2022-11-24-大规模异构图召回在美团到店推荐广告的应用](https://tech.meituan.com/2022/11/24/application-of-large-scale-heterogeneous-graph-in-meituan-recommended-ads.html)
+- [2022-11-24-清华大学课题组联合美团研发无人机声波定位技术获顶会大奖](https://tech.meituan.com/2022/11/24/acm-sensys-best-paper-runner-up.html)
+- [2022-11-24-美团SemEval2022结构化情感分析跨语言赛道冠军方法总结](https://tech.meituan.com/2022/11/24/mt-speech-at-semeval-2022-task-10-structured-sentiment-analysis.html)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
 </details>

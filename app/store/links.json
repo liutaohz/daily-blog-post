@@ -3,6 +3,11 @@
     "title": "Node-Weekly",
     "items": [
       {
+        "title": "Node.js 20 is fast(er)",
+        "link": "https://nodeweekly.com/issues/487",
+        "date": "2023-05-23"
+      },
+      {
         "title": "MS's new tool for digging deep into V8",
         "link": "https://nodeweekly.com/issues/486",
         "date": "2023-05-16"

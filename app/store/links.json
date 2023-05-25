@@ -93,6 +93,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "Microsoft shrunk the TypeScript",
+        "link": "https://javascriptweekly.com/issues/640",
+        "date": "2023-05-25"
+      },
+      {
         "title": "jQuery lives on; major changes teased",
         "link": "https://javascriptweekly.com/issues/639",
         "date": "2023-05-18"

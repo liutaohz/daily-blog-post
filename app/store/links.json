@@ -3,6 +3,11 @@
     "title": "Node-Weekly",
     "items": [
       {
+        "title": "A colorful issue",
+        "link": "https://nodeweekly.com/issues/488",
+        "date": "2023-05-30"
+      },
+      {
         "title": "Node.js 20 is fast(er)",
         "link": "https://nodeweekly.com/issues/487",
         "date": "2023-05-23"

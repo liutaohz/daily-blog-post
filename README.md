@@ -9,7 +9,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-05-26 12:30，:rocket: 更新条数: +1
+:alarm_clock: 更新时间: 2023-05-30 21:30，:rocket: 更新条数: +1
 
 ## 文章来源
 - [Node-Weekly](#Node-Weekly)
@@ -24,6 +24,7 @@
 Node-Weekly
 </summary>
 
+- [2023-05-30-A colorful issue](https://nodeweekly.com/issues/488)
 - [2023-05-23-Node.js 20 is fast(er)](https://nodeweekly.com/issues/487)
 - [2023-05-16-MS&#x27;s new tool for digging deep into V8](https://nodeweekly.com/issues/486)
 - [2023-05-09-Getting recursive with Node 20.1](https://nodeweekly.com/issues/485)

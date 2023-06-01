@@ -9,7 +9,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-05-30 21:30，:rocket: 更新条数: +1
+:alarm_clock: 更新时间: 2023-06-02 06:30，:rocket: 更新条数: +1
 
 ## 文章来源
 - [Node-Weekly](#Node-Weekly)
@@ -50,6 +50,7 @@ Node-Weekly
 JavaScript-Weekly
 </summary>
 
+- [2023-06-01-Bundle-time macros with Bun](https://javascriptweekly.com/issues/641)
 - [2023-05-25-Microsoft shrunk the TypeScript](https://javascriptweekly.com/issues/640)
 - [2023-05-18-jQuery lives on; major changes teased](https://javascriptweekly.com/issues/639)
 - [2023-05-11-Why Svelte is converting TypeScript to JSDoc](https://javascriptweekly.com/issues/638)

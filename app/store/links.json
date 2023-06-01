@@ -98,6 +98,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "Bundle-time macros with Bun",
+        "link": "https://javascriptweekly.com/issues/641",
+        "date": "2023-06-01"
+      },
+      {
         "title": "Microsoft shrunk the TypeScript",
         "link": "https://javascriptweekly.com/issues/640",
         "date": "2023-05-25"

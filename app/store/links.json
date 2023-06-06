@@ -3,6 +3,11 @@
     "title": "Node-Weekly",
     "items": [
       {
+        "title": "Hands on with Node's new built-in test runner",
+        "link": "https://nodeweekly.com/issues/489",
+        "date": "2023-06-06"
+      },
+      {
         "title": "A colorful issue",
         "link": "https://nodeweekly.com/issues/488",
         "date": "2023-05-30"

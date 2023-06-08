@@ -103,6 +103,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "Douglas Crockford calls JavaScript 'smelly.'",
+        "link": "https://javascriptweekly.com/issues/642",
+        "date": "2023-06-08"
+      },
+      {
         "title": "Bundle-time macros with Bun",
         "link": "https://javascriptweekly.com/issues/641",
         "date": "2023-06-01"

@@ -9,7 +9,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-06-09 18:30，:rocket: 更新条数: +1
+:alarm_clock: 更新时间: 2023-06-13 21:30，:rocket: 更新条数: +1
 
 ## 文章来源
 - [Node-Weekly](#Node-Weekly)
@@ -24,6 +24,7 @@
 Node-Weekly
 </summary>
 
+- [2023-06-13-Let&#x27;s get debugging](https://nodeweekly.com/issues/490)
 - [2023-06-06-Hands on with Node&#x27;s new built-in test runner](https://nodeweekly.com/issues/489)
 - [2023-05-30-A colorful issue](https://nodeweekly.com/issues/488)
 - [2023-05-23-Node.js 20 is fast(er)](https://nodeweekly.com/issues/487)

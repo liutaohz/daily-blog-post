@@ -108,6 +108,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "11 years of JavaScript on top",
+        "link": "https://javascriptweekly.com/issues/643",
+        "date": "2023-06-15"
+      },
+      {
         "title": "Douglas Crockford calls JavaScript 'smelly.'",
         "link": "https://javascriptweekly.com/issues/642",
         "date": "2023-06-08"

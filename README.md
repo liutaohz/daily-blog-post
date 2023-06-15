@@ -9,7 +9,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-06-13 21:30，:rocket: 更新条数: +1
+:alarm_clock: 更新时间: 2023-06-16 06:30，:rocket: 更新条数: +1
 
 ## 文章来源
 - [Node-Weekly](#Node-Weekly)
@@ -52,6 +52,7 @@ Node-Weekly
 JavaScript-Weekly
 </summary>
 
+- [2023-06-15-11 years of JavaScript on top](https://javascriptweekly.com/issues/643)
 - [2023-06-08-Douglas Crockford calls JavaScript &#x27;smelly.&#x27;](https://javascriptweekly.com/issues/642)
 - [2023-06-01-Bundle-time macros with Bun](https://javascriptweekly.com/issues/641)
 - [2023-05-25-Microsoft shrunk the TypeScript](https://javascriptweekly.com/issues/640)

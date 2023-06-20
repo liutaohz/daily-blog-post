@@ -3,6 +3,11 @@
     "title": "Node-Weekly",
     "items": [
       {
+        "title": "Getting under Node's skin",
+        "link": "https://nodeweekly.com/issues/491",
+        "date": "2023-06-20"
+      },
+      {
         "title": "Let's get debugging",
         "link": "https://nodeweekly.com/issues/490",
         "date": "2023-06-13"

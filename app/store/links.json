@@ -3,6 +3,11 @@
     "title": "Node-Weekly",
     "items": [
       {
+        "title": "Why Node permissions are experimental for now",
+        "link": "https://nodeweekly.com/issues/492",
+        "date": "2023-06-27"
+      },
+      {
         "title": "Getting under Node's skin",
         "link": "https://nodeweekly.com/issues/491",
         "date": "2023-06-20"

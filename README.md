@@ -9,7 +9,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-06-23 06:30，:rocket: 更新条数: +1
+:alarm_clock: 更新时间: 2023-06-28 06:30，:rocket: 更新条数: +1
 
 ## 文章来源
 - [Node-Weekly](#Node-Weekly)
@@ -24,6 +24,7 @@
 Node-Weekly
 </summary>
 
+- [2023-06-27-Why Node permissions are experimental for now](https://nodeweekly.com/issues/492)
 - [2023-06-20-Getting under Node&#x27;s skin](https://nodeweekly.com/issues/491)
 - [2023-06-13-Let&#x27;s get debugging](https://nodeweekly.com/issues/490)
 - [2023-06-06-Hands on with Node&#x27;s new built-in test runner](https://nodeweekly.com/issues/489)

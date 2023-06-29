@@ -9,7 +9,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-06-28 06:30，:rocket: 更新条数: +1
+:alarm_clock: 更新时间: 2023-06-30 06:30，:rocket: 更新条数: +1
 
 ## 文章来源
 - [Node-Weekly](#Node-Weekly)
@@ -54,6 +54,7 @@ Node-Weekly
 JavaScript-Weekly
 </summary>
 
+- [2023-06-29-This is a doozy of an issue](https://javascriptweekly.com/issues/645)
 - [2023-06-22-Svelte 4 released](https://javascriptweekly.com/issues/644)
 - [2023-06-15-11 years of JavaScript on top](https://javascriptweekly.com/issues/643)
 - [2023-06-08-Douglas Crockford calls JavaScript &#x27;smelly.&#x27;](https://javascriptweekly.com/issues/642)

@@ -118,6 +118,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "This is a doozy of an issue",
+        "link": "https://javascriptweekly.com/issues/645",
+        "date": "2023-06-29"
+      },
+      {
         "title": "Svelte 4 released",
         "link": "https://javascriptweekly.com/issues/644",
         "date": "2023-06-22"

@@ -3,6 +3,11 @@
     "title": "Node-Weekly",
     "items": [
       {
+        "title": "Deno wants us to ditch CommonJS",
+        "link": "https://nodeweekly.com/issues/493",
+        "date": "2023-07-04"
+      },
+      {
         "title": "Why Node permissions are experimental for now",
         "link": "https://nodeweekly.com/issues/492",
         "date": "2023-06-27"

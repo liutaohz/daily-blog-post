@@ -123,6 +123,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "CommonJS, we love you, we love you not..",
+        "link": "https://javascriptweekly.com/issues/646",
+        "date": "2023-07-06"
+      },
+      {
         "title": "This is a doozy of an issue",
         "link": "https://javascriptweekly.com/issues/645",
         "date": "2023-06-29"

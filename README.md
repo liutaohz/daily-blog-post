@@ -9,7 +9,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-07-12 06:30，:rocket: 更新条数: +1
+:alarm_clock: 更新时间: 2023-07-14 06:30，:rocket: 更新条数: +1
 
 ## 文章来源
 - [Node-Weekly](#Node-Weekly)
@@ -56,6 +56,7 @@ Node-Weekly
 JavaScript-Weekly
 </summary>
 
+- [2023-07-13-htmx in 100 seconds](https://javascriptweekly.com/issues/647)
 - [2023-07-06-CommonJS, we love you, we love you not..](https://javascriptweekly.com/issues/646)
 - [2023-06-29-This is a doozy of an issue](https://javascriptweekly.com/issues/645)
 - [2023-06-22-Svelte 4 released](https://javascriptweekly.com/issues/644)

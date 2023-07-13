@@ -128,6 +128,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "htmx in 100 seconds",
+        "link": "https://javascriptweekly.com/issues/647",
+        "date": "2023-07-13"
+      },
+      {
         "title": "CommonJS, we love you, we love you not..",
         "link": "https://javascriptweekly.com/issues/646",
         "date": "2023-07-06"

@@ -9,7 +9,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-07-15 18:30，:rocket: 更新条数: +1
+:alarm_clock: 更新时间: 2023-07-19 06:30，:rocket: 更新条数: +1
 
 ## 文章来源
 - [Node-Weekly](#Node-Weekly)
@@ -24,6 +24,7 @@
 Node-Weekly
 </summary>
 
+- [2023-07-18-Automating code updates with codemods](https://nodeweekly.com/issues/495)
 - [2023-07-11-Simple tests for dark scenarios](https://nodeweekly.com/issues/494)
 - [2023-07-04-Deno wants us to ditch CommonJS](https://nodeweekly.com/issues/493)
 - [2023-06-27-Why Node permissions are experimental for now](https://nodeweekly.com/issues/492)

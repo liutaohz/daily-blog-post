@@ -3,6 +3,11 @@
     "title": "Node-Weekly",
     "items": [
       {
+        "title": "Automating code updates with codemods",
+        "link": "https://nodeweekly.com/issues/495",
+        "date": "2023-07-18"
+      },
+      {
         "title": "Simple tests for dark scenarios",
         "link": "https://nodeweekly.com/issues/494",
         "date": "2023-07-11"

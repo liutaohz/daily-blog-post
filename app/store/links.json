@@ -133,6 +133,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "The tale of how static typing came to JavaScript",
+        "link": "https://javascriptweekly.com/issues/648",
+        "date": "2023-07-20"
+      },
+      {
         "title": "htmx in 100 seconds",
         "link": "https://javascriptweekly.com/issues/647",
         "date": "2023-07-13"

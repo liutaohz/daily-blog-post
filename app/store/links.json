@@ -3,6 +3,11 @@
     "title": "Node-Weekly",
     "items": [
       {
+        "title": "The Node.js best practices list gets a 2023 update",
+        "link": "https://nodeweekly.com/issues/496",
+        "date": "2023-07-25"
+      },
+      {
         "title": "Automating code updates with codemods",
         "link": "https://nodeweekly.com/issues/495",
         "date": "2023-07-18"

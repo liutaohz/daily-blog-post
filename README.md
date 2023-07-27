@@ -9,7 +9,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-07-26 06:30，:rocket: 更新条数: +1
+:alarm_clock: 更新时间: 2023-07-28 06:30，:rocket: 更新条数: +1
 
 ## 文章来源
 - [Node-Weekly](#Node-Weekly)
@@ -58,6 +58,7 @@ Node-Weekly
 JavaScript-Weekly
 </summary>
 
+- [2023-07-27-Name mangling](https://javascriptweekly.com/issues/649)
 - [2023-07-20-The tale of how static typing came to JavaScript](https://javascriptweekly.com/issues/648)
 - [2023-07-13-htmx in 100 seconds](https://javascriptweekly.com/issues/647)
 - [2023-07-06-CommonJS, we love you, we love you not..](https://javascriptweekly.com/issues/646)

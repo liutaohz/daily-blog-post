@@ -138,6 +138,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "Name mangling",
+        "link": "https://javascriptweekly.com/issues/649",
+        "date": "2023-07-27"
+      },
+      {
         "title": "The tale of how static typing came to JavaScript",
         "link": "https://javascriptweekly.com/issues/648",
         "date": "2023-07-20"

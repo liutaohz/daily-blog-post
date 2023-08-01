@@ -3,6 +3,11 @@
     "title": "Node-Weekly",
     "items": [
       {
+        "title": "Opening up the Node.js toolbox",
+        "link": "https://nodeweekly.com/issues/497",
+        "date": "2023-08-01"
+      },
+      {
         "title": "The Node.js best practices list gets a 2023 update",
         "link": "https://nodeweekly.com/issues/496",
         "date": "2023-07-25"

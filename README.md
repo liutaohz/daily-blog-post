@@ -9,7 +9,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-08-01 18:30，:rocket: 更新条数: +1
+:alarm_clock: 更新时间: 2023-08-02 06:30，:rocket: 更新条数: +1
 
 ## 文章来源
 - [Node-Weekly](#Node-Weekly)
@@ -24,6 +24,7 @@
 Node-Weekly
 </summary>
 
+- [2023-08-01-Opening up the Node.js toolbox](https://nodeweekly.com/issues/497)
 - [2023-07-25-The Node.js best practices list gets a 2023 update](https://nodeweekly.com/issues/496)
 - [2023-07-18-Automating code updates with codemods](https://nodeweekly.com/issues/495)
 - [2023-07-11-Simple tests for dark scenarios](https://nodeweekly.com/issues/494)

@@ -148,6 +148,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "We're taking a few weeks off, but..",
+        "link": "https://javascriptweekly.com/issues/652",
+        "date": "2023-08-17"
+      },
+      {
         "title": "Svelte 5 is going to be radical",
         "link": "https://javascriptweekly.com/issues/651",
         "date": "2023-08-10"

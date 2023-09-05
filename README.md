@@ -9,7 +9,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-09-01 18:30，:rocket: 更新条数: +2
+:alarm_clock: 更新时间: 2023-09-06 06:30，:rocket: 更新条数: +1
 
 ## 文章来源
 - [Node-Weekly](#Node-Weekly)
@@ -24,6 +24,7 @@
 Node-Weekly
 </summary>
 
+- [2023-09-05-Node v20.6.0 released with .env support](https://nodeweekly.com/issues/500)
 - [2023-08-29-.env support coming to Node](https://nodeweekly.com/issues/499)
 - [2023-08-08-Let&#x27;s create some dependency graphs](https://nodeweekly.com/issues/498)
 - [2023-08-01-Opening up the Node.js toolbox](https://nodeweekly.com/issues/497)

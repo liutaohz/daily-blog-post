@@ -3,6 +3,11 @@
     "title": "Node-Weekly",
     "items": [
       {
+        "title": "You can run GitHub Gists with npx",
+        "link": "https://nodeweekly.com/issues/501",
+        "date": "2023-09-12"
+      },
+      {
         "title": "Node v20.6.0 released with .env support",
         "link": "https://nodeweekly.com/issues/500",
         "date": "2023-09-05"

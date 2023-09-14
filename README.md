@@ -9,7 +9,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-09-12 21:30，:rocket: 更新条数: +1
+:alarm_clock: 更新时间: 2023-09-15 06:30，:rocket: 更新条数: +1
 
 ## 文章来源
 - [Node-Weekly](#Node-Weekly)
@@ -63,6 +63,7 @@ Node-Weekly
 JavaScript-Weekly
 </summary>
 
+- [2023-09-14-JavaScript, ML and LLMs](https://javascriptweekly.com/issues/654)
 - [2023-09-07-TypeScript 5.2, Node 20.6, and Astro 3.0](https://javascriptweekly.com/issues/653)
 - [2023-08-17-We&#x27;re taking a few weeks off, but..](https://javascriptweekly.com/issues/652)
 - [2023-08-10-Svelte 5 is going to be radical](https://javascriptweekly.com/issues/651)

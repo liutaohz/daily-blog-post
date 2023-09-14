@@ -163,6 +163,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "JavaScript, ML and LLMs",
+        "link": "https://javascriptweekly.com/issues/654",
+        "date": "2023-09-14"
+      },
+      {
         "title": "TypeScript 5.2, Node 20.6, and Astro 3.0",
         "link": "https://javascriptweekly.com/issues/653",
         "date": "2023-09-07"

@@ -9,7 +9,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-09-15 12:30，:rocket: 更新条数: +1
+:alarm_clock: 更新时间: 2023-09-20 06:30，:rocket: 更新条数: +1
 
 ## 文章来源
 - [Node-Weekly](#Node-Weekly)
@@ -24,6 +24,7 @@
 Node-Weekly
 </summary>
 
+- [2023-09-19-Does Node need a mascot of its own?](https://nodeweekly.com/issues/502)
 - [2023-09-12-You can run GitHub Gists with npx](https://nodeweekly.com/issues/501)
 - [2023-09-05-Node v20.6.0 released with .env support](https://nodeweekly.com/issues/500)
 - [2023-08-29-.env support coming to Node](https://nodeweekly.com/issues/499)

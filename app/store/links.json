@@ -168,6 +168,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "Microsoft spills the tea on TypeScript",
+        "link": "https://javascriptweekly.com/issues/655",
+        "date": "2023-09-21"
+      },
+      {
         "title": "JavaScript, ML and LLMs",
         "link": "https://javascriptweekly.com/issues/654",
         "date": "2023-09-14"

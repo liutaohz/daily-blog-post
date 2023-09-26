@@ -3,6 +3,11 @@
     "title": "Node-Weekly",
     "items": [
       {
+        "title": "Polyfills gone rogue",
+        "link": "https://nodeweekly.com/issues/503",
+        "date": "2023-09-26"
+      },
+      {
         "title": "Does Node need a mascot of its own?",
         "link": "https://nodeweekly.com/issues/502",
         "date": "2023-09-19"

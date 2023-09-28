@@ -173,6 +173,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "Getting some closure",
+        "link": "https://javascriptweekly.com/issues/656",
+        "date": "2023-09-28"
+      },
+      {
         "title": "Microsoft spills the tea on TypeScript",
         "link": "https://javascriptweekly.com/issues/655",
         "date": "2023-09-21"

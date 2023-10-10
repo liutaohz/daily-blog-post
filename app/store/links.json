@@ -3,6 +3,11 @@
     "title": "Node-Weekly",
     "items": [
       {
+        "title": "Testing perfection for Node?",
+        "link": "https://nodeweekly.com/issues/505",
+        "date": "2023-10-10"
+      },
+      {
         "title": "Node 20 gets faster, approaches LTS status",
         "link": "https://nodeweekly.com/issues/504",
         "date": "2023-10-03"

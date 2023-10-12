@@ -183,6 +183,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "Fluid simulation in JavaScript",
+        "link": "https://javascriptweekly.com/issues/658",
+        "date": "2023-10-12"
+      },
+      {
         "title": "Comparing test assertion styles in JavaScript",
         "link": "https://javascriptweekly.com/issues/657",
         "date": "2023-10-05"

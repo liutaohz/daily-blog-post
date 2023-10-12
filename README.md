@@ -9,7 +9,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-10-10 21:30，:rocket: 更新条数: +1
+:alarm_clock: 更新时间: 2023-10-12 21:30，:rocket: 更新条数: +1
 
 ## 文章来源
 - [Node-Weekly](#Node-Weekly)
@@ -67,6 +67,7 @@ Node-Weekly
 JavaScript-Weekly
 </summary>
 
+- [2023-10-12-Fluid simulation in JavaScript](https://javascriptweekly.com/issues/658)
 - [2023-10-05-Comparing test assertion styles in JavaScript](https://javascriptweekly.com/issues/657)
 - [2023-09-28-Getting some closure](https://javascriptweekly.com/issues/656)
 - [2023-09-21-Microsoft spills the tea on TypeScript](https://javascriptweekly.com/issues/655)

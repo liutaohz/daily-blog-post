@@ -9,7 +9,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-10-13 12:30，:rocket: 更新条数: +1
+:alarm_clock: 更新时间: 2023-10-18 06:30，:rocket: 更新条数: +1
 
 ## 文章来源
 - [Node-Weekly](#Node-Weekly)
@@ -24,6 +24,7 @@
 Node-Weekly
 </summary>
 
+- [2023-10-17-Node.js 21 released](https://nodeweekly.com/issues/506)
 - [2023-10-10-Testing perfection for Node?](https://nodeweekly.com/issues/505)
 - [2023-10-03-Node 20 gets faster, approaches LTS status](https://nodeweekly.com/issues/504)
 - [2023-09-26-Polyfills gone rogue](https://nodeweekly.com/issues/503)

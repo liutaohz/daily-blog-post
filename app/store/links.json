@@ -3,6 +3,11 @@
     "title": "Node-Weekly",
     "items": [
       {
+        "title": "Node.js 21 released",
+        "link": "https://nodeweekly.com/issues/506",
+        "date": "2023-10-17"
+      },
+      {
         "title": "Testing perfection for Node?",
         "link": "https://nodeweekly.com/issues/505",
         "date": "2023-10-10"

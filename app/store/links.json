@@ -188,6 +188,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "Ways to serve up less JavaScript",
+        "link": "https://javascriptweekly.com/issues/659",
+        "date": "2023-10-19"
+      },
+      {
         "title": "Fluid simulation in JavaScript",
         "link": "https://javascriptweekly.com/issues/658",
         "date": "2023-10-12"

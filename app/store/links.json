@@ -3,6 +3,11 @@
     "title": "Node-Weekly",
     "items": [
       {
+        "title": "Taking Node to the JVM",
+        "link": "https://nodeweekly.com/issues/507",
+        "date": "2023-10-24"
+      },
+      {
         "title": "Node.js 21 released",
         "link": "https://nodeweekly.com/issues/506",
         "date": "2023-10-17"

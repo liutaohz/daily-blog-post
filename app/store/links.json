@@ -3,6 +3,11 @@
     "title": "Node-Weekly",
     "items": [
       {
+        "title": "ES module autodetection coming to Node",
+        "link": "https://nodeweekly.com/issues/508",
+        "date": "2023-10-31"
+      },
+      {
         "title": "Taking Node to the JVM",
         "link": "https://nodeweekly.com/issues/507",
         "date": "2023-10-24"

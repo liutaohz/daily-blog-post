@@ -9,7 +9,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-10-27 06:30，:rocket: 更新条数: +1
+:alarm_clock: 更新时间: 2023-11-01 06:30，:rocket: 更新条数: +1
 
 ## 文章来源
 - [Node-Weekly](#Node-Weekly)
@@ -24,6 +24,7 @@
 Node-Weekly
 </summary>
 
+- [2023-10-31-ES module autodetection coming to Node](https://nodeweekly.com/issues/508)
 - [2023-10-24-Taking Node to the JVM](https://nodeweekly.com/issues/507)
 - [2023-10-17-Node.js 21 released](https://nodeweekly.com/issues/506)
 - [2023-10-10-Testing perfection for Node?](https://nodeweekly.com/issues/505)

@@ -9,7 +9,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-11-01 06:30，:rocket: 更新条数: +1
+:alarm_clock: 更新时间: 2023-11-03 06:30，:rocket: 更新条数: +1
 
 ## 文章来源
 - [Node-Weekly](#Node-Weekly)
@@ -70,6 +70,7 @@ Node-Weekly
 JavaScript-Weekly
 </summary>
 
+- [2023-11-02-Big news for both Next.js and Remix](https://javascriptweekly.com/issues/661)
 - [2023-10-26-Web Components forever?](https://javascriptweekly.com/issues/660)
 - [2023-10-19-Ways to serve up less JavaScript](https://javascriptweekly.com/issues/659)
 - [2023-10-12-Fluid simulation in JavaScript](https://javascriptweekly.com/issues/658)

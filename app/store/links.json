@@ -3,6 +3,11 @@
     "title": "Node-Weekly",
     "items": [
       {
+        "title": "Sizing up your images with Sindre",
+        "link": "https://nodeweekly.com/issues/509",
+        "date": "2023-11-07"
+      },
+      {
         "title": "ES module autodetection coming to Node",
         "link": "https://nodeweekly.com/issues/508",
         "date": "2023-10-31"

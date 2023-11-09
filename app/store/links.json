@@ -203,6 +203,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "Angular is back",
+        "link": "https://javascriptweekly.com/issues/662",
+        "date": "2023-11-09"
+      },
+      {
         "title": "Big news for both Next.js and Remix",
         "link": "https://javascriptweekly.com/issues/661",
         "date": "2023-11-02"

@@ -9,7 +9,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-11-10 12:30，:rocket: 更新条数: +1
+:alarm_clock: 更新时间: 2023-11-17 06:30，:rocket: 更新条数: +2
 
 ## 文章来源
 - [Node-Weekly](#Node-Weekly)
@@ -24,6 +24,7 @@
 Node-Weekly
 </summary>
 
+- [2023-11-14-Milo: A new HTTP parser for Node?](https://nodeweekly.com/issues/510)
 - [2023-11-07-Sizing up your images with Sindre](https://nodeweekly.com/issues/509)
 - [2023-10-31-ES module autodetection coming to Node](https://nodeweekly.com/issues/508)
 - [2023-10-24-Taking Node to the JVM](https://nodeweekly.com/issues/507)
@@ -71,6 +72,7 @@ Node-Weekly
 JavaScript-Weekly
 </summary>
 
+- [2023-11-16-Digging into explicit resource management](https://javascriptweekly.com/issues/663)
 - [2023-11-09-Angular is back](https://javascriptweekly.com/issues/662)
 - [2023-11-02-Big news for both Next.js and Remix](https://javascriptweekly.com/issues/661)
 - [2023-10-26-Web Components forever?](https://javascriptweekly.com/issues/660)

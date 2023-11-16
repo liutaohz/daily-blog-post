@@ -3,6 +3,11 @@
     "title": "Node-Weekly",
     "items": [
       {
+        "title": "Milo: A new HTTP parser for Node?",
+        "link": "https://nodeweekly.com/issues/510",
+        "date": "2023-11-14"
+      },
+      {
         "title": "Sizing up your images with Sindre",
         "link": "https://nodeweekly.com/issues/509",
         "date": "2023-11-07"
@@ -202,6 +207,11 @@
   {
     "title": "JavaScript-Weekly",
     "items": [
+      {
+        "title": "Digging into explicit resource management",
+        "link": "https://javascriptweekly.com/issues/663",
+        "date": "2023-11-16"
+      },
       {
         "title": "Angular is back",
         "link": "https://javascriptweekly.com/issues/662",

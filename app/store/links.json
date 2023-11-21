@@ -3,6 +3,11 @@
     "title": "Node-Weekly",
     "items": [
       {
+        "title": "AWS Lambda gets a Node 20 LTS runtime",
+        "link": "https://nodeweekly.com/issues/511",
+        "date": "2023-11-21"
+      },
+      {
         "title": "Milo: A new HTTP parser for Node?",
         "link": "https://nodeweekly.com/issues/510",
         "date": "2023-11-14"

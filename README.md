@@ -9,7 +9,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-11-17 06:30，:rocket: 更新条数: +2
+:alarm_clock: 更新时间: 2023-11-22 06:30，:rocket: 更新条数: +1
 
 ## 文章来源
 - [Node-Weekly](#Node-Weekly)
@@ -24,6 +24,7 @@
 Node-Weekly
 </summary>
 
+- [2023-11-21-AWS Lambda gets a Node 20 LTS runtime](https://nodeweekly.com/issues/511)
 - [2023-11-14-Milo: A new HTTP parser for Node?](https://nodeweekly.com/issues/510)
 - [2023-11-07-Sizing up your images with Sindre](https://nodeweekly.com/issues/509)
 - [2023-10-31-ES module autodetection coming to Node](https://nodeweekly.com/issues/508)

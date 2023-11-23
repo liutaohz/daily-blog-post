@@ -213,6 +213,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "The unbearable weight of massive JavaScript",
+        "link": "https://javascriptweekly.com/issues/664",
+        "date": "2023-11-23"
+      },
+      {
         "title": "Digging into explicit resource management",
         "link": "https://javascriptweekly.com/issues/663",
         "date": "2023-11-16"

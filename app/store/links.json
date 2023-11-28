@@ -3,6 +3,11 @@
     "title": "Node-Weekly",
     "items": [
       {
+        "title": "Issue 2 to the power of 9",
+        "link": "https://nodeweekly.com/issues/512",
+        "date": "2023-11-28"
+      },
+      {
         "title": "AWS Lambda gets a Node 20 LTS runtime",
         "link": "https://nodeweekly.com/issues/511",
         "date": "2023-11-21"

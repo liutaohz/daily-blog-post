@@ -218,6 +218,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "Every Framework Everywhere All at Once",
+        "link": "https://javascriptweekly.com/issues/665",
+        "date": "2023-11-30"
+      },
+      {
         "title": "The unbearable weight of massive JavaScript",
         "link": "https://javascriptweekly.com/issues/664",
         "date": "2023-11-23"

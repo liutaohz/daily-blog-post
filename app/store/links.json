@@ -223,6 +223,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "Learning JS framework concepts by building one",
+        "link": "https://javascriptweekly.com/issues/666",
+        "date": "2023-12-07"
+      },
+      {
         "title": "Every Framework Everywhere All at Once",
         "link": "https://javascriptweekly.com/issues/665",
         "date": "2023-11-30"

@@ -9,7 +9,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-12-06 06:30，:rocket: 更新条数: +1
+:alarm_clock: 更新时间: 2023-12-08 06:30，:rocket: 更新条数: +1
 
 ## 文章来源
 - [Node-Weekly](#Node-Weekly)
@@ -75,6 +75,7 @@ Node-Weekly
 JavaScript-Weekly
 </summary>
 
+- [2023-12-07-Learning JS framework concepts by building one](https://javascriptweekly.com/issues/666)
 - [2023-11-30-Every Framework Everywhere All at Once](https://javascriptweekly.com/issues/665)
 - [2023-11-23-The unbearable weight of massive JavaScript](https://javascriptweekly.com/issues/664)
 - [2023-11-16-Digging into explicit resource management](https://javascriptweekly.com/issues/663)

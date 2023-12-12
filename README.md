@@ -9,7 +9,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-12-08 06:30，:rocket: 更新条数: +1
+:alarm_clock: 更新时间: 2023-12-13 06:30，:rocket: 更新条数: +1
 
 ## 文章来源
 - [Node-Weekly](#Node-Weekly)
@@ -24,6 +24,7 @@
 Node-Weekly
 </summary>
 
+- [2023-12-12-V8&#x27;s garbage collection and three JIT compilers](https://nodeweekly.com/issues/514)
 - [2023-12-05-100,000 stars within reach for Node](https://nodeweekly.com/issues/513)
 - [2023-11-28-Issue 2 to the power of 9](https://nodeweekly.com/issues/512)
 - [2023-11-21-AWS Lambda gets a Node 20 LTS runtime](https://nodeweekly.com/issues/511)

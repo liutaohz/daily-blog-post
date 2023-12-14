@@ -228,6 +228,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "JS Runtime Royale",
+        "link": "https://javascriptweekly.com/issues/667",
+        "date": "2023-12-14"
+      },
+      {
         "title": "Learning JS framework concepts by building one",
         "link": "https://javascriptweekly.com/issues/666",
         "date": "2023-12-07"

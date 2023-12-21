@@ -233,6 +233,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "Reflecting on a big year for JavaScript",
+        "link": "https://javascriptweekly.com/issues/668",
+        "date": "2023-12-21"
+      },
+      {
         "title": "JS Runtime Royale",
         "link": "https://javascriptweekly.com/issues/667",
         "date": "2023-12-14"

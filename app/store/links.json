@@ -233,6 +233,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "JavaScript's rising stars",
+        "link": "https://javascriptweekly.com/issues/669",
+        "date": "2024-01-04"
+      },
+      {
         "title": "Reflecting on a big year for JavaScript",
         "link": "https://javascriptweekly.com/issues/668",
         "date": "2023-12-21"

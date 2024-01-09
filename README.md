@@ -9,7 +9,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-01-05 18:30，:rocket: 更新条数: +1
+:alarm_clock: 更新时间: 2024-01-10 06:30，:rocket: 更新条数: +1
 
 ## 文章来源
 - [Node-Weekly](#Node-Weekly)
@@ -24,6 +24,7 @@
 Node-Weekly
 </summary>
 
+- [2024-01-09-The latest npm registry shenanigans](https://nodeweekly.com/issues/516)
 - [2023-12-19-The ten top Node Weekly links of 2023](https://nodeweekly.com/issues/515)
 - [2023-12-12-V8&#x27;s garbage collection and three JIT compilers](https://nodeweekly.com/issues/514)
 - [2023-12-05-100,000 stars within reach for Node](https://nodeweekly.com/issues/513)

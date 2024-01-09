@@ -3,6 +3,11 @@
     "title": "Node-Weekly",
     "items": [
       {
+        "title": "The latest npm registry shenanigans",
+        "link": "https://nodeweekly.com/issues/516",
+        "date": "2024-01-09"
+      },
+      {
         "title": "The ten top Node Weekly links of 2023",
         "link": "https://nodeweekly.com/issues/515",
         "date": "2023-12-19"

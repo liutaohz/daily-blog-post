@@ -238,6 +238,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "Is htmx Just Another JS Framework?",
+        "link": "https://javascriptweekly.com/issues/670",
+        "date": "2024-01-11"
+      },
+      {
         "title": "JavaScript's rising stars",
         "link": "https://javascriptweekly.com/issues/669",
         "date": "2024-01-04"

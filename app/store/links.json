@@ -243,6 +243,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "Astro + htmx + Alpine.js == AHA",
+        "link": "https://javascriptweekly.com/issues/671",
+        "date": "2024-01-18"
+      },
+      {
         "title": "Is htmx Just Another JS Framework?",
         "link": "https://javascriptweekly.com/issues/670",
         "date": "2024-01-11"

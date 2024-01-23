@@ -9,7 +9,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-01-19 18:30，:rocket: 更新条数: +1
+:alarm_clock: 更新时间: 2024-01-23 21:30，:rocket: 更新条数: +1
 
 ## 文章来源
 - [Node-Weekly](#Node-Weekly)
@@ -24,6 +24,7 @@
 Node-Weekly
 </summary>
 
+- [2024-01-23-Neural network chess](https://nodeweekly.com/issues/518)
 - [2024-01-16-npm by the numbers](https://nodeweekly.com/issues/517)
 - [2024-01-09-The latest npm registry shenanigans](https://nodeweekly.com/issues/516)
 - [2023-12-19-The ten top Node Weekly links of 2023](https://nodeweekly.com/issues/515)

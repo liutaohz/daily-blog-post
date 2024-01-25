@@ -9,7 +9,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-01-23 21:30，:rocket: 更新条数: +1
+:alarm_clock: 更新时间: 2024-01-26 06:30，:rocket: 更新条数: +1
 
 ## 文章来源
 - [Node-Weekly](#Node-Weekly)
@@ -80,6 +80,7 @@ Node-Weekly
 JavaScript-Weekly
 </summary>
 
+- [2024-01-25-Modern shell scripting with JavaScript](https://javascriptweekly.com/issues/672)
 - [2024-01-18-Astro + htmx + Alpine.js &#x3D;&#x3D; AHA](https://javascriptweekly.com/issues/671)
 - [2024-01-11-Is htmx Just Another JS Framework?](https://javascriptweekly.com/issues/670)
 - [2024-01-04-JavaScript&#x27;s rising stars](https://javascriptweekly.com/issues/669)

@@ -248,6 +248,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "Modern shell scripting with JavaScript",
+        "link": "https://javascriptweekly.com/issues/672",
+        "date": "2024-01-25"
+      },
+      {
         "title": "Astro + htmx + Alpine.js == AHA",
         "link": "https://javascriptweekly.com/issues/671",
         "date": "2024-01-18"

@@ -253,6 +253,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "A Qwik break from React?",
+        "link": "https://javascriptweekly.com/issues/673",
+        "date": "2024-02-01"
+      },
+      {
         "title": "Modern shell scripting with JavaScript",
         "link": "https://javascriptweekly.com/issues/672",
         "date": "2024-01-25"

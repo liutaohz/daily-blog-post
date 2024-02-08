@@ -258,6 +258,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "Gorillas",
+        "link": "https://javascriptweekly.com/issues/674",
+        "date": "2024-02-08"
+      },
+      {
         "title": "A Qwik break from React?",
         "link": "https://javascriptweekly.com/issues/673",
         "date": "2024-02-01"

@@ -258,6 +258,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "TC39 adds a new stage for ECMAScript proposals",
+        "link": "https://javascriptweekly.com/issues/675",
+        "date": "2024-02-15"
+      },
+      {
         "title": "Gorillas",
         "link": "https://javascriptweekly.com/issues/674",
         "date": "2024-02-08"

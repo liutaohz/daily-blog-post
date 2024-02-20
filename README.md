@@ -9,7 +9,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-02-16 06:30，:rocket: 更新条数: +1
+:alarm_clock: 更新时间: 2024-02-21 06:30，:rocket: 更新条数: +1
 
 ## 文章来源
 - [Node-Weekly](#Node-Weekly)
@@ -24,6 +24,7 @@
 Node-Weekly
 </summary>
 
+- [2024-02-20-To npm, or not to (include) npm?](https://nodeweekly.com/issues/521)
 - [2024-02-06-An open SaaS boilerplate app](https://nodeweekly.com/issues/520)
 - [2024-01-30-Adonis v6](https://nodeweekly.com/issues/519)
 - [2024-01-23-Neural network chess](https://nodeweekly.com/issues/518)

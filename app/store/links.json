@@ -263,6 +263,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "A big update for ECharts",
+        "link": "https://javascriptweekly.com/issues/676",
+        "date": "2024-02-22"
+      },
+      {
         "title": "TC39 adds a new stage for ECMAScript proposals",
         "link": "https://javascriptweekly.com/issues/675",
         "date": "2024-02-15"

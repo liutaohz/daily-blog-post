@@ -268,6 +268,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "Postgres in TypeScript",
+        "link": "https://javascriptweekly.com/issues/677",
+        "date": "2024-02-29"
+      },
+      {
         "title": "A big update for ECharts",
         "link": "https://javascriptweekly.com/issues/676",
         "date": "2024-02-22"

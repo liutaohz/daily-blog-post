@@ -273,6 +273,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "A new challenger appears",
+        "link": "https://javascriptweekly.com/issues/678",
+        "date": "2024-03-07"
+      },
+      {
         "title": "Postgres in TypeScript",
         "link": "https://javascriptweekly.com/issues/677",
         "date": "2024-02-29"

@@ -3,6 +3,11 @@
     "title": "Node-Weekly",
     "items": [
       {
+        "title": "Node 21.7 and TypeScript 5.4",
+        "link": "https://nodeweekly.com/issues/524",
+        "date": "2024-03-12"
+      },
+      {
         "title": "A new (small) Express.js release appears",
         "link": "https://nodeweekly.com/issues/523",
         "date": "2024-03-05"

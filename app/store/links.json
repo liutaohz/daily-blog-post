@@ -278,6 +278,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "Build-time macros for everyone",
+        "link": "https://javascriptweekly.com/issues/679",
+        "date": "2024-03-14"
+      },
+      {
         "title": "A new challenger appears",
         "link": "https://javascriptweekly.com/issues/678",
         "date": "2024-03-07"

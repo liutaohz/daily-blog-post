@@ -9,7 +9,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-03-12 21:30，:rocket: 更新条数: +1
+:alarm_clock: 更新时间: 2024-03-15 06:30，:rocket: 更新条数: +1
 
 ## 文章来源
 - [Node-Weekly](#Node-Weekly)
@@ -86,6 +86,7 @@ Node-Weekly
 JavaScript-Weekly
 </summary>
 
+- [2024-03-14-Build-time macros for everyone](https://javascriptweekly.com/issues/679)
 - [2024-03-07-A new challenger appears](https://javascriptweekly.com/issues/678)
 - [2024-02-29-Postgres in TypeScript](https://javascriptweekly.com/issues/677)
 - [2024-02-22-A big update for ECharts](https://javascriptweekly.com/issues/676)

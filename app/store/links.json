@@ -3,6 +3,11 @@
     "title": "Node-Weekly",
     "items": [
       {
+        "title": "Ryan Dahl on Deno and the future of JavaScript",
+        "link": "https://nodeweekly.com/issues/525",
+        "date": "2024-03-19"
+      },
+      {
         "title": "Node 21.7 and TypeScript 5.4",
         "link": "https://nodeweekly.com/issues/524",
         "date": "2024-03-12"

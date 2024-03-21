@@ -283,6 +283,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "Package managers, the new todo app?",
+        "link": "https://javascriptweekly.com/issues/680",
+        "date": "2024-03-21"
+      },
+      {
         "title": "Build-time macros for everyone",
         "link": "https://javascriptweekly.com/issues/679",
         "date": "2024-03-14"

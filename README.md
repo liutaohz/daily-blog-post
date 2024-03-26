@@ -9,7 +9,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-03-22 12:30，:rocket: 更新条数: +1
+:alarm_clock: 更新时间: 2024-03-27 06:30，:rocket: 更新条数: +1
 
 ## 文章来源
 - [Node-Weekly](#Node-Weekly)
@@ -24,6 +24,7 @@
 Node-Weekly
 </summary>
 
+- [2024-03-26-Node gets a redesign (and a documentary)](https://nodeweekly.com/issues/526)
 - [2024-03-19-Ryan Dahl on Deno and the future of JavaScript](https://nodeweekly.com/issues/525)
 - [2024-03-12-Node 21.7 and TypeScript 5.4](https://nodeweekly.com/issues/524)
 - [2024-03-05-A new (small) Express.js release appears](https://nodeweekly.com/issues/523)

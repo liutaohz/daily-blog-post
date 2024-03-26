@@ -3,6 +3,11 @@
     "title": "Node-Weekly",
     "items": [
       {
+        "title": "Node gets a redesign (and a documentary)",
+        "link": "https://nodeweekly.com/issues/526",
+        "date": "2024-03-26"
+      },
+      {
         "title": "Ryan Dahl on Deno and the future of JavaScript",
         "link": "https://nodeweekly.com/issues/525",
         "date": "2024-03-19"

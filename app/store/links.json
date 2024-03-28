@@ -288,6 +288,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "Promises visualized",
+        "link": "https://javascriptweekly.com/issues/681",
+        "date": "2024-03-28"
+      },
+      {
         "title": "Package managers, the new todo app?",
         "link": "https://javascriptweekly.com/issues/680",
         "date": "2024-03-21"

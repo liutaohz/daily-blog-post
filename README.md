@@ -9,7 +9,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-03-27 06:30，:rocket: 更新条数: +1
+:alarm_clock: 更新时间: 2024-03-29 06:30，:rocket: 更新条数: +1
 
 ## 文章来源
 - [Node-Weekly](#Node-Weekly)
@@ -88,6 +88,7 @@ Node-Weekly
 JavaScript-Weekly
 </summary>
 
+- [2024-03-28-Promises visualized](https://javascriptweekly.com/issues/681)
 - [2024-03-21-Package managers, the new todo app?](https://javascriptweekly.com/issues/680)
 - [2024-03-14-Build-time macros for everyone](https://javascriptweekly.com/issues/679)
 - [2024-03-07-A new challenger appears](https://javascriptweekly.com/issues/678)

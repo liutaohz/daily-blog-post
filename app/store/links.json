@@ -288,6 +288,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "A signal boost for JavaScript",
+        "link": "https://javascriptweekly.com/issues/682",
+        "date": "2024-04-04"
+      },
+      {
         "title": "Promises visualized",
         "link": "https://javascriptweekly.com/issues/681",
         "date": "2024-03-28"

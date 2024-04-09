@@ -3,6 +3,11 @@
     "title": "Node-Weekly",
     "items": [
       {
+        "title": "zx 8.0 for better Node scripting",
+        "link": "https://nodeweekly.com/issues/527",
+        "date": "2024-04-09"
+      },
+      {
         "title": "Node gets a redesign (and a documentary)",
         "link": "https://nodeweekly.com/issues/526",
         "date": "2024-03-26"

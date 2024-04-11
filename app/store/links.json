@@ -293,6 +293,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "An easy way to experiment with signals",
+        "link": "https://javascriptweekly.com/issues/683",
+        "date": "2024-04-11"
+      },
+      {
         "title": "A signal boost for JavaScript",
         "link": "https://javascriptweekly.com/issues/682",
         "date": "2024-04-04"

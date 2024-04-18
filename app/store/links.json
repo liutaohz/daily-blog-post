@@ -298,6 +298,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "Visualizing algorithms",
+        "link": "https://javascriptweekly.com/issues/684",
+        "date": "2024-04-18"
+      },
+      {
         "title": "An easy way to experiment with signals",
         "link": "https://javascriptweekly.com/issues/683",
         "date": "2024-04-11"

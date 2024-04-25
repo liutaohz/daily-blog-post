@@ -303,6 +303,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "JSR isn't another tool, it's a fundamental shift",
+        "link": "https://javascriptweekly.com/issues/685",
+        "date": "2024-04-25"
+      },
+      {
         "title": "Visualizing algorithms",
         "link": "https://javascriptweekly.com/issues/684",
         "date": "2024-04-18"

@@ -9,7 +9,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-04-24 06:30，:rocket: 更新条数: +1
+:alarm_clock: 更新时间: 2024-04-26 06:30，:rocket: 更新条数: +1
 
 ## 文章来源
 - [Node-Weekly](#Node-Weekly)
@@ -91,6 +91,7 @@ Node-Weekly
 JavaScript-Weekly
 </summary>
 
+- [2024-04-25-JSR isn&#x27;t another tool, it&#x27;s a fundamental shift](https://javascriptweekly.com/issues/685)
 - [2024-04-18-Visualizing algorithms](https://javascriptweekly.com/issues/684)
 - [2024-04-11-An easy way to experiment with signals](https://javascriptweekly.com/issues/683)
 - [2024-04-04-A signal boost for JavaScript](https://javascriptweekly.com/issues/682)

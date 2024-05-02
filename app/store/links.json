@@ -308,6 +308,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "Svelte 5 is almost here",
+        "link": "https://javascriptweekly.com/issues/686",
+        "date": "2024-05-02"
+      },
+      {
         "title": "JSR isn't another tool, it's a fundamental shift",
         "link": "https://javascriptweekly.com/issues/685",
         "date": "2024-04-25"

@@ -9,7 +9,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-05-03 06:30，:rocket: 更新条数: +1
+:alarm_clock: 更新时间: 2024-05-07 21:30，:rocket: 更新条数: +1
 
 ## 文章来源
 - [Node-Weekly](#Node-Weekly)
@@ -24,6 +24,7 @@
 Node-Weekly
 </summary>
 
+- [2024-05-07-Node 22.1, now with even more performance](https://nodeweekly.com/issues/531)
 - [2024-04-30-Node.js 22 has entered the building](https://nodeweekly.com/issues/530)
 - [2024-04-23-node --run send_newsletter](https://nodeweekly.com/issues/529)
 - [2024-04-16-What Node&#x27;s contributors have been discussing](https://nodeweekly.com/issues/528)

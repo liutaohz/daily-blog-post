@@ -3,6 +3,11 @@
     "title": "Node-Weekly",
     "items": [
       {
+        "title": "Node 22.1, now with even more performance",
+        "link": "https://nodeweekly.com/issues/531",
+        "date": "2024-05-07"
+      },
+      {
         "title": "Node.js 22 has entered the building",
         "link": "https://nodeweekly.com/issues/530",
         "date": "2024-04-30"

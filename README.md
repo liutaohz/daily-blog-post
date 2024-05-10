@@ -9,7 +9,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-05-10 06:30，:rocket: 更新条数: +1
+:alarm_clock: 更新时间: 2024-05-10 12:30，:rocket: 更新条数: +1
 
 ## 文章来源
 - [Node-Weekly](#Node-Weekly)
@@ -245,6 +245,7 @@ JavaScript-Weekly
 美团技术团队
 </summary>
 
+- [2024-05-09-DDD在大众点评交易系统演进中的应用](https://tech.meituan.com/2024/05/09/ddd-practice-trading-system.html)
 - [2024-04-11-美团外卖基于GPU的向量检索系统实践](https://tech.meituan.com/2024/04/11/gpu-vector-retrieval-system-practice.html)
 - [2024-03-29-百亿大规模图在广告场景的应用](https://tech.meituan.com/2024/03/29/large-scale-graph-application.html)
 - [2024-03-21-大众点评内容搜索算法优化的探索与实践](https://tech.meituan.com/2024/03/21/content-search-algorithm-optimization.html)
@@ -269,8 +270,8 @@ JavaScript-Weekly
 - [2023-07-27-斩获CVPR 2023竞赛2项冠军｜美团街景理解中视觉分割技术的探索与应用](https://tech.meituan.com/2023/07/27/meituan-visual-segmentation-technology-cvpr-2023.html)
 - [2023-07-20-美团外卖推荐关于用户新颖体验优化的技术探索](https://tech.meituan.com/2023/07/20/meituan-waimai-novelty-unexpectedness-practice.html)
 - [2023-07-13-美团外卖智能陪伴型导购的探索与实践](https://tech.meituan.com/2023/07/13/exploration-and-practice-of-meituan-waimai-intelligent-companion-search-guide.html)
-- [2023-07-06-MySQL自治平台建设的内核原理及实践（下）](https://tech.meituan.com/2023/07/06/meituan-mysql-autonomous-platform-02.html)
 - [2023-07-06-MySQL自治平台建设的内核原理及实践（上）](https://tech.meituan.com/2023/07/06/meituan-mysql-autonomous-platform-01.html)
+- [2023-07-06-MySQL自治平台建设的内核原理及实践（下）](https://tech.meituan.com/2023/07/06/meituan-mysql-autonomous-platform-02.html)
 - [2023-06-16-CVPR 2023 | 美团技术团队精选论文解读](https://tech.meituan.com/2023/06/16/cvpr-2023-meituan.html)
 - [2023-06-09-超大规模数据库集群保稳系列之三：美团数据库容灾体系建设实践](https://tech.meituan.com/2023/06/09/meituan-database-recovery-system.html)
 - [2023-05-26-超大规模数据库集群保稳系列之二：数据库攻防演练建设实践](https://tech.meituan.com/2023/05/26/database-attack-and-defense-practice.html)
@@ -290,9 +291,9 @@ JavaScript-Weekly
 - [2023-01-05-美团开放平台SDK自动生成技术与实践](https://tech.meituan.com/2023/01/05/openplatform-sdk-auto-generate.html)
 - [2022-12-30-2022年 | 美团技术团队公众号最受欢迎的20篇文章](https://tech.meituan.com/2022/12/30/2022-summary.html)
 - [2022-12-08-美团外卖推荐情境化智能流量分发的实践与探索](https://tech.meituan.com/2022/12/08/scenario-aware-ranking-model-for-personalized-recommender-system.html)
-- [2022-11-24-大规模异构图召回在美团到店推荐广告的应用](https://tech.meituan.com/2022/11/24/application-of-large-scale-heterogeneous-graph-in-meituan-recommended-ads.html)
-- [2022-11-24-清华大学课题组联合美团研发无人机声波定位技术获顶会大奖](https://tech.meituan.com/2022/11/24/acm-sensys-best-paper-runner-up.html)
 - [2022-11-24-美团SemEval2022结构化情感分析跨语言赛道冠军方法总结](https://tech.meituan.com/2022/11/24/mt-speech-at-semeval-2022-task-10-structured-sentiment-analysis.html)
+- [2022-11-24-清华大学课题组联合美团研发无人机声波定位技术获顶会大奖](https://tech.meituan.com/2022/11/24/acm-sensys-best-paper-runner-up.html)
+- [2022-11-24-大规模异构图召回在美团到店推荐广告的应用](https://tech.meituan.com/2022/11/24/application-of-large-scale-heterogeneous-graph-in-meituan-recommended-ads.html)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
 </details>

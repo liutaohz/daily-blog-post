@@ -3,6 +3,11 @@
     "title": "Node-Weekly",
     "items": [
       {
+        "title": "Running other processes from Node, but better",
+        "link": "https://nodeweekly.com/issues/532",
+        "date": "2024-05-14"
+      },
+      {
         "title": "Node 22.1, now with even more performance",
         "link": "https://nodeweekly.com/issues/531",
         "date": "2024-05-07"

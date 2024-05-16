@@ -318,6 +318,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "Remix + React Router == React Router?",
+        "link": "https://javascriptweekly.com/issues/688",
+        "date": "2024-05-16"
+      },
+      {
         "title": "Gulp is back - did it ever leave?",
         "link": "https://javascriptweekly.com/issues/687",
         "date": "2024-05-09"

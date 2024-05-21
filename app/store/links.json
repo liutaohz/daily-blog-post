@@ -3,6 +3,11 @@
     "title": "Node-Weekly",
     "items": [
       {
+        "title": "The Node.js Advocacy Ambassador program?",
+        "link": "https://nodeweekly.com/issues/533",
+        "date": "2024-05-21"
+      },
+      {
         "title": "Running other processes from Node, but better",
         "link": "https://nodeweekly.com/issues/532",
         "date": "2024-05-14"

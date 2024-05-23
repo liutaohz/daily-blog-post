@@ -323,6 +323,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "SolidJS is off to a solid start",
+        "link": "https://javascriptweekly.com/issues/689",
+        "date": "2024-05-23"
+      },
+      {
         "title": "Remix + React Router == React Router?",
         "link": "https://javascriptweekly.com/issues/688",
         "date": "2024-05-16"

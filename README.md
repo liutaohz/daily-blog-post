@@ -9,7 +9,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-05-22 06:30，:rocket: 更新条数: +1
+:alarm_clock: 更新时间: 2024-05-24 06:30，:rocket: 更新条数: +1
 
 ## 文章来源
 - [Node-Weekly](#Node-Weekly)
@@ -95,6 +95,7 @@ Node-Weekly
 JavaScript-Weekly
 </summary>
 
+- [2024-05-23-SolidJS is off to a solid start](https://javascriptweekly.com/issues/689)
 - [2024-05-16-Remix + React Router &#x3D;&#x3D; React Router?](https://javascriptweekly.com/issues/688)
 - [2024-05-09-Gulp is back - did it ever leave?](https://javascriptweekly.com/issues/687)
 - [2024-05-02-Svelte 5 is almost here](https://javascriptweekly.com/issues/686)

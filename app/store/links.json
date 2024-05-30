@@ -323,6 +323,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "A variety of JS hacks and creative coding",
+        "link": "https://javascriptweekly.com/issues/690",
+        "date": "2024-05-30"
+      },
+      {
         "title": "SolidJS is off to a solid start",
         "link": "https://javascriptweekly.com/issues/689",
         "date": "2024-05-23"

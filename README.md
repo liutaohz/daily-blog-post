@@ -9,7 +9,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-05-31 06:30，:rocket: 更新条数: +1
+:alarm_clock: 更新时间: 2024-06-05 06:30，:rocket: 更新条数: +1
 
 ## 文章来源
 - [Node-Weekly](#Node-Weekly)
@@ -24,6 +24,7 @@
 Node-Weekly
 </summary>
 
+- [2024-06-04-The newest Node.js runtime features](https://nodeweekly.com/issues/534)
 - [2024-05-21-The Node.js Advocacy Ambassador program?](https://nodeweekly.com/issues/533)
 - [2024-05-14-Running other processes from Node, but better](https://nodeweekly.com/issues/532)
 - [2024-05-07-Node 22.1, now with even more performance](https://nodeweekly.com/issues/531)

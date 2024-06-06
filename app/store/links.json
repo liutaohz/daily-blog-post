@@ -328,6 +328,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "The appealing simplicity of htmx",
+        "link": "https://javascriptweekly.com/issues/691",
+        "date": "2024-06-06"
+      },
+      {
         "title": "A variety of JS hacks and creative coding",
         "link": "https://javascriptweekly.com/issues/690",
         "date": "2024-05-30"

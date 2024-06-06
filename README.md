@@ -9,7 +9,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-06-05 06:30，:rocket: 更新条数: +1
+:alarm_clock: 更新时间: 2024-06-07 06:30，:rocket: 更新条数: +1
 
 ## 文章来源
 - [Node-Weekly](#Node-Weekly)
@@ -96,6 +96,7 @@ Node-Weekly
 JavaScript-Weekly
 </summary>
 
+- [2024-06-06-The appealing simplicity of htmx](https://javascriptweekly.com/issues/691)
 - [2024-05-30-A variety of JS hacks and creative coding](https://javascriptweekly.com/issues/690)
 - [2024-05-23-SolidJS is off to a solid start](https://javascriptweekly.com/issues/689)
 - [2024-05-16-Remix + React Router &#x3D;&#x3D; React Router?](https://javascriptweekly.com/issues/688)

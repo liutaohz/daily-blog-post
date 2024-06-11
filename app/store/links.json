@@ -3,6 +3,11 @@
     "title": "Node-Weekly",
     "items": [
       {
+        "title": "Leaky timeouts",
+        "link": "https://nodeweekly.com/issues/535",
+        "date": "2024-06-11"
+      },
+      {
         "title": "The newest Node.js runtime features",
         "link": "https://nodeweekly.com/issues/534",
         "date": "2024-06-04"

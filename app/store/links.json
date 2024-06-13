@@ -333,6 +333,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "The biggest TypeScript release in years?",
+        "link": "https://javascriptweekly.com/issues/692",
+        "date": "2024-06-13"
+      },
+      {
         "title": "The appealing simplicity of htmx",
         "link": "https://javascriptweekly.com/issues/691",
         "date": "2024-06-06"

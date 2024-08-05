@@ -3,6 +3,26 @@
     "title": "Node-Weekly",
     "items": [
       {
+        "title": "Node can run TypeScript (sort of)",
+        "link": "https://nodeweekly.com/issues/542",
+        "date": "2024-07-30"
+      },
+      {
+        "title": "Node.js v22.5 includes SQLite, but..",
+        "link": "https://nodeweekly.com/issues/541",
+        "date": "2024-07-23"
+      },
+      {
+        "title": "Stream if you wanna go faster",
+        "link": "https://nodeweekly.com/issues/540",
+        "date": "2024-07-16"
+      },
+      {
+        "title": "Node experiments with adding SQLite",
+        "link": "https://nodeweekly.com/issues/539",
+        "date": "2024-07-09"
+      },
+      {
         "title": "Leaky timeouts",
         "link": "https://nodeweekly.com/issues/535",
         "date": "2024-06-11"
@@ -332,6 +352,26 @@
   {
     "title": "JavaScript-Weekly",
     "items": [
+      {
+        "title": "How Googlebot sees your JavaScript",
+        "link": "https://javascriptweekly.com/issues/699",
+        "date": "2024-08-01"
+      },
+      {
+        "title": "What's new for us in ECMAScript 2024",
+        "link": "https://javascriptweekly.com/issues/698",
+        "date": "2024-07-25"
+      },
+      {
+        "title": "Exploring JavaScript (ES2024 Edition)",
+        "link": "https://javascriptweekly.com/issues/697",
+        "date": "2024-07-18"
+      },
+      {
+        "title": "Do the (ESLint) Evolution",
+        "link": "https://javascriptweekly.com/issues/696",
+        "date": "2024-07-11"
+      },
       {
         "title": "The biggest TypeScript release in years?",
         "link": "https://javascriptweekly.com/issues/692",
@@ -1013,6 +1053,31 @@
     "title": "美团技术团队",
     "items": [
       {
+        "title": "KDD 2024 | 美团技术团队精选论文解读",
+        "link": "https://tech.meituan.com/2024/07/26/kdd-2024.html",
+        "date": "2024-07-26"
+      },
+      {
+        "title": "基本功 | 一文讲清多线程和多线程同步",
+        "link": "https://tech.meituan.com/2024/07/19/multi-threading-and-multi-thread-synchronization.html",
+        "date": "2024-07-19"
+      },
+      {
+        "title": "搜索广告召回技术在美团的实践",
+        "link": "https://tech.meituan.com/2024/07/05/the-practice-of-search-advertising-recall-technology-in-meituan.html",
+        "date": "2024-07-05"
+      },
+      {
+        "title": "小程序可测性能力建设与实践",
+        "link": "https://tech.meituan.com/2024/06/28/menpiao-testing-practice.html",
+        "date": "2024-06-28"
+      },
+      {
+        "title": "Spark向量化计算在美团生产环境的实践",
+        "link": "https://tech.meituan.com/2024/06/23/spark-gluten-velox.html",
+        "date": "2024-06-23"
+      },
+      {
         "title": "CVPR 2024 | 美团技术团队精选论文解读",
         "link": "https://tech.meituan.com/2024/06/13/cvpr-2024.html",
         "date": "2024-06-13"
@@ -1153,13 +1218,13 @@
         "date": "2023-07-13"
       },
       {
-        "title": "MySQL自治平台建设的内核原理及实践（下）",
-        "link": "https://tech.meituan.com/2023/07/06/meituan-mysql-autonomous-platform-02.html",
+        "title": "MySQL自治平台建设的内核原理及实践（上）",
+        "link": "https://tech.meituan.com/2023/07/06/meituan-mysql-autonomous-platform-01.html",
         "date": "2023-07-06"
       },
       {
-        "title": "MySQL自治平台建设的内核原理及实践（上）",
-        "link": "https://tech.meituan.com/2023/07/06/meituan-mysql-autonomous-platform-01.html",
+        "title": "MySQL自治平台建设的内核原理及实践（下）",
+        "link": "https://tech.meituan.com/2023/07/06/meituan-mysql-autonomous-platform-02.html",
         "date": "2023-07-06"
       },
       {
@@ -1258,8 +1323,8 @@
         "date": "2022-12-08"
       },
       {
-        "title": "大规模异构图召回在美团到店推荐广告的应用",
-        "link": "https://tech.meituan.com/2022/11/24/application-of-large-scale-heterogeneous-graph-in-meituan-recommended-ads.html",
+        "title": "美团SemEval2022结构化情感分析跨语言赛道冠军方法总结",
+        "link": "https://tech.meituan.com/2022/11/24/mt-speech-at-semeval-2022-task-10-structured-sentiment-analysis.html",
         "date": "2022-11-24"
       },
       {
@@ -1268,8 +1333,8 @@
         "date": "2022-11-24"
       },
       {
-        "title": "美团SemEval2022结构化情感分析跨语言赛道冠军方法总结",
-        "link": "https://tech.meituan.com/2022/11/24/mt-speech-at-semeval-2022-task-10-structured-sentiment-analysis.html",
+        "title": "大规模异构图召回在美团到店推荐广告的应用",
+        "link": "https://tech.meituan.com/2022/11/24/application-of-large-scale-heterogeneous-graph-in-meituan-recommended-ads.html",
         "date": "2022-11-24"
       }
     ]

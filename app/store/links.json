@@ -3,6 +3,11 @@
     "title": "Node-Weekly",
     "items": [
       {
+        "title": "Looking through the Node toolbox",
+        "link": "https://nodeweekly.com/issues/543",
+        "date": "2024-08-06"
+      },
+      {
         "title": "Node can run TypeScript (sort of)",
         "link": "https://nodeweekly.com/issues/542",
         "date": "2024-07-30"

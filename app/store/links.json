@@ -1073,6 +1073,11 @@
         "date": "2024-06-28"
       },
       {
+        "title": "SIGIR 2024 | 美团技术团队精选论文解读",
+        "link": "https://tech.meituan.com/2024/06/27/sigir-2024-meituan.html",
+        "date": "2024-06-27"
+      },
+      {
         "title": "Spark向量化计算在美团生产环境的实践",
         "link": "https://tech.meituan.com/2024/06/23/spark-gluten-velox.html",
         "date": "2024-06-23"
@@ -1218,13 +1223,13 @@
         "date": "2023-07-13"
       },
       {
-        "title": "MySQL自治平台建设的内核原理及实践（上）",
-        "link": "https://tech.meituan.com/2023/07/06/meituan-mysql-autonomous-platform-01.html",
+        "title": "MySQL自治平台建设的内核原理及实践（下）",
+        "link": "https://tech.meituan.com/2023/07/06/meituan-mysql-autonomous-platform-02.html",
         "date": "2023-07-06"
       },
       {
-        "title": "MySQL自治平台建设的内核原理及实践（下）",
-        "link": "https://tech.meituan.com/2023/07/06/meituan-mysql-autonomous-platform-02.html",
+        "title": "MySQL自治平台建设的内核原理及实践（上）",
+        "link": "https://tech.meituan.com/2023/07/06/meituan-mysql-autonomous-platform-01.html",
         "date": "2023-07-06"
       },
       {
@@ -1323,8 +1328,8 @@
         "date": "2022-12-08"
       },
       {
-        "title": "美团SemEval2022结构化情感分析跨语言赛道冠军方法总结",
-        "link": "https://tech.meituan.com/2022/11/24/mt-speech-at-semeval-2022-task-10-structured-sentiment-analysis.html",
+        "title": "大规模异构图召回在美团到店推荐广告的应用",
+        "link": "https://tech.meituan.com/2022/11/24/application-of-large-scale-heterogeneous-graph-in-meituan-recommended-ads.html",
         "date": "2022-11-24"
       },
       {
@@ -1333,8 +1338,8 @@
         "date": "2022-11-24"
       },
       {
-        "title": "大规模异构图召回在美团到店推荐广告的应用",
-        "link": "https://tech.meituan.com/2022/11/24/application-of-large-scale-heterogeneous-graph-in-meituan-recommended-ads.html",
+        "title": "美团SemEval2022结构化情感分析跨语言赛道冠军方法总结",
+        "link": "https://tech.meituan.com/2022/11/24/mt-speech-at-semeval-2022-task-10-structured-sentiment-analysis.html",
         "date": "2022-11-24"
       }
     ]

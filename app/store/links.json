@@ -358,6 +358,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "The npm tea party",
+        "link": "https://javascriptweekly.com/issues/700",
+        "date": "2024-08-15"
+      },
+      {
         "title": "How Googlebot sees your JavaScript",
         "link": "https://javascriptweekly.com/issues/699",
         "date": "2024-08-01"

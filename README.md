@@ -9,7 +9,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-08-20 21:30，:rocket: 更新条数: +1
+:alarm_clock: 更新时间: 2024-08-23 06:30，:rocket: 更新条数: +1
 
 ## 文章来源
 - [Node-Weekly](#Node-Weekly)
@@ -103,6 +103,7 @@ Node-Weekly
 JavaScript-Weekly
 </summary>
 
+- [2024-08-22-A regular expression refresher](https://javascriptweekly.com/issues/701)
 - [2024-08-15-The npm tea party](https://javascriptweekly.com/issues/700)
 - [2024-08-01-How Googlebot sees your JavaScript](https://javascriptweekly.com/issues/699)
 - [2024-07-25-What&#x27;s new for us in ECMAScript 2024](https://javascriptweekly.com/issues/698)

@@ -363,6 +363,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "A regular expression refresher",
+        "link": "https://javascriptweekly.com/issues/701",
+        "date": "2024-08-22"
+      },
+      {
         "title": "The npm tea party",
         "link": "https://javascriptweekly.com/issues/700",
         "date": "2024-08-15"

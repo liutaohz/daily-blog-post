@@ -3,6 +3,11 @@
     "title": "Node-Weekly",
     "items": [
       {
+        "title": "Now Node can run even more TypeScript",
+        "link": "https://nodeweekly.com/issues/545",
+        "date": "2024-08-27"
+      },
+      {
         "title": "Node 22.6, Protobuf-ES 2.0, and Volta 2.0",
         "link": "https://nodeweekly.com/issues/544",
         "date": "2024-08-20"

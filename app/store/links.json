@@ -368,6 +368,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "JavaScript's Rust tool belt",
+        "link": "https://javascriptweekly.com/issues/702",
+        "date": "2024-08-29"
+      },
+      {
         "title": "A regular expression refresher",
         "link": "https://javascriptweekly.com/issues/701",
         "date": "2024-08-22"

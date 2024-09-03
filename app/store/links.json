@@ -3,6 +3,11 @@
     "title": "Node-Weekly",
     "items": [
       {
+        "title": "Two new libraries from Sindre Sorhus",
+        "link": "https://nodeweekly.com/issues/546",
+        "date": "2024-09-03"
+      },
+      {
         "title": "Now Node can run even more TypeScript",
         "link": "https://nodeweekly.com/issues/545",
         "date": "2024-08-27"

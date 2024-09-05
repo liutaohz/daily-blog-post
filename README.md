@@ -9,7 +9,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-09-04 06:30，:rocket: 更新条数: +1
+:alarm_clock: 更新时间: 2024-09-06 06:30，:rocket: 更新条数: +1
 
 ## 文章来源
 - [Node-Weekly](#Node-Weekly)
@@ -105,6 +105,7 @@ Node-Weekly
 JavaScript-Weekly
 </summary>
 
+- [2024-09-05-Reverse engineering minified JS with ChatGPT](https://javascriptweekly.com/issues/703)
 - [2024-08-29-JavaScript&#x27;s Rust tool belt](https://javascriptweekly.com/issues/702)
 - [2024-08-22-A regular expression refresher](https://javascriptweekly.com/issues/701)
 - [2024-08-15-The npm tea party](https://javascriptweekly.com/issues/700)

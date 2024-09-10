@@ -3,6 +3,11 @@
     "title": "Node-Weekly",
     "items": [
       {
+        "title": "Express.js 5.0",
+        "link": "https://nodeweekly.com/issues/547",
+        "date": "2024-09-10"
+      },
+      {
         "title": "Two new libraries from Sindre Sorhus",
         "link": "https://nodeweekly.com/issues/546",
         "date": "2024-09-03"

@@ -9,7 +9,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-09-09 18:30，:rocket: 更新条数: +1
+:alarm_clock: 更新时间: 2024-09-11 06:30，:rocket: 更新条数: +1
 
 ## 文章来源
 - [Node-Weekly](#Node-Weekly)
@@ -24,6 +24,7 @@
 Node-Weekly
 </summary>
 
+- [2024-09-10-Express.js 5.0](https://nodeweekly.com/issues/547)
 - [2024-09-03-Two new libraries from Sindre Sorhus](https://nodeweekly.com/issues/546)
 - [2024-08-27-Now Node can run even more TypeScript](https://nodeweekly.com/issues/545)
 - [2024-08-20-Node 22.6, Protobuf-ES 2.0, and Volta 2.0](https://nodeweekly.com/issues/544)

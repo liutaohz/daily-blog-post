@@ -378,6 +378,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "The heaviest npm packages",
+        "link": "https://javascriptweekly.com/issues/704",
+        "date": "2024-09-12"
+      },
+      {
         "title": "Reverse engineering minified JS with ChatGPT",
         "link": "https://javascriptweekly.com/issues/703",
         "date": "2024-09-05"

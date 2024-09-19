@@ -383,6 +383,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "Hey, how many C's are there in JavaScript?",
+        "link": "https://javascriptweekly.com/issues/705",
+        "date": "2024-09-19"
+      },
+      {
         "title": "The heaviest npm packages",
         "link": "https://javascriptweekly.com/issues/704",
         "date": "2024-09-12"

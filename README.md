@@ -9,7 +9,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-09-18 06:30，:rocket: 更新条数: +1
+:alarm_clock: 更新时间: 2024-09-20 06:30，:rocket: 更新条数: +1
 
 ## 文章来源
 - [Node-Weekly](#Node-Weekly)
@@ -107,6 +107,7 @@ Node-Weekly
 JavaScript-Weekly
 </summary>
 
+- [2024-09-19-Hey, how many C&#x27;s are there in JavaScript?](https://javascriptweekly.com/issues/705)
 - [2024-09-12-The heaviest npm packages](https://javascriptweekly.com/issues/704)
 - [2024-09-05-Reverse engineering minified JS with ChatGPT](https://javascriptweekly.com/issues/703)
 - [2024-08-29-JavaScript&#x27;s Rust tool belt](https://javascriptweekly.com/issues/702)

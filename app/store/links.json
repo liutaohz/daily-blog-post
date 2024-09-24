@@ -3,6 +3,11 @@
     "title": "Node-Weekly",
     "items": [
       {
+        "title": "Principles for doing Node right at scale",
+        "link": "https://nodeweekly.com/issues/549",
+        "date": "2024-09-24"
+      },
+      {
         "title": "Tough cookies",
         "link": "https://nodeweekly.com/issues/548",
         "date": "2024-09-17"

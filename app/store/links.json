@@ -388,6 +388,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "Deno gets even better",
+        "link": "https://javascriptweekly.com/issues/706",
+        "date": "2024-09-26"
+      },
+      {
         "title": "Hey, how many C's are there in JavaScript?",
         "link": "https://javascriptweekly.com/issues/705",
         "date": "2024-09-19"

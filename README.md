@@ -9,7 +9,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-09-27 06:30，:rocket: 更新条数: +1
+:alarm_clock: 更新时间: 2024-10-02 06:30，:rocket: 更新条数: +1
 
 ## 文章来源
 - [Node-Weekly](#Node-Weekly)
@@ -24,6 +24,7 @@
 Node-Weekly
 </summary>
 
+- [2024-10-01-All aboard the (high speed) Express train](https://nodeweekly.com/issues/550)
 - [2024-09-24-Principles for doing Node right at scale](https://nodeweekly.com/issues/549)
 - [2024-09-17-Tough cookies](https://nodeweekly.com/issues/548)
 - [2024-09-10-Express.js 5.0](https://nodeweekly.com/issues/547)

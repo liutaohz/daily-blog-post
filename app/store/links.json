@@ -3,6 +3,11 @@
     "title": "Node-Weekly",
     "items": [
       {
+        "title": "All aboard the (high speed) Express train",
+        "link": "https://nodeweekly.com/issues/550",
+        "date": "2024-10-01"
+      },
+      {
         "title": "Principles for doing Node right at scale",
         "link": "https://nodeweekly.com/issues/549",
         "date": "2024-09-24"

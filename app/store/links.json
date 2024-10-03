@@ -393,6 +393,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "Evan You's next big adventure",
+        "link": "https://javascriptweekly.com/issues/707",
+        "date": "2024-10-03"
+      },
+      {
         "title": "Deno gets even better",
         "link": "https://javascriptweekly.com/issues/706",
         "date": "2024-09-26"

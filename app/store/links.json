@@ -393,6 +393,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "A huge week for ECMAScript proposals",
+        "link": "https://javascriptweekly.com/issues/708",
+        "date": "2024-10-10"
+      },
+      {
         "title": "Evan You's next big adventure",
         "link": "https://javascriptweekly.com/issues/707",
         "date": "2024-10-03"

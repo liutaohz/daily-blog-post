@@ -9,7 +9,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-10-04 06:30，:rocket: 更新条数: +1
+:alarm_clock: 更新时间: 2024-10-11 06:30，:rocket: 更新条数: +1
 
 ## 文章来源
 - [Node-Weekly](#Node-Weekly)
@@ -109,6 +109,7 @@ Node-Weekly
 JavaScript-Weekly
 </summary>
 
+- [2024-10-10-A huge week for ECMAScript proposals](https://javascriptweekly.com/issues/708)
 - [2024-10-03-Evan You&#x27;s next big adventure](https://javascriptweekly.com/issues/707)
 - [2024-09-26-Deno gets even better](https://javascriptweekly.com/issues/706)
 - [2024-09-19-Hey, how many C&#x27;s are there in JavaScript?](https://javascriptweekly.com/issues/705)

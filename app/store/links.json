@@ -398,6 +398,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "JS0 + JSSugar not so sweet?",
+        "link": "https://javascriptweekly.com/issues/709",
+        "date": "2024-10-17"
+      },
+      {
         "title": "A huge week for ECMAScript proposals",
         "link": "https://javascriptweekly.com/issues/708",
         "date": "2024-10-10"

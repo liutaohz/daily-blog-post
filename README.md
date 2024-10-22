@@ -9,7 +9,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-10-22 12:30，:rocket: 更新条数: +1
+:alarm_clock: 更新时间: 2024-10-22 21:30，:rocket: 更新条数: +1
 
 ## 文章来源
 - [Node-Weekly](#Node-Weekly)
@@ -24,6 +24,7 @@
 Node-Weekly
 </summary>
 
+- [2024-10-22-Node v23, and a proper hello to Express v5](https://nodeweekly.com/issues/552)
 - [2024-10-15-Jod only knows what Node v22 LTS will be called](https://nodeweekly.com/issues/551)
 - [2024-10-01-All aboard the (high speed) Express train](https://nodeweekly.com/issues/550)
 - [2024-09-24-Principles for doing Node right at scale](https://nodeweekly.com/issues/549)

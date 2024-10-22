@@ -3,6 +3,11 @@
     "title": "Node-Weekly",
     "items": [
       {
+        "title": "Node v23, and a proper hello to Express v5",
+        "link": "https://nodeweekly.com/issues/552",
+        "date": "2024-10-22"
+      },
+      {
         "title": "Jod only knows what Node v22 LTS will be called",
         "link": "https://nodeweekly.com/issues/551",
         "date": "2024-10-15"

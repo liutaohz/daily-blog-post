@@ -403,6 +403,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "A huge week for both Svelte and Next.js",
+        "link": "https://javascriptweekly.com/issues/710",
+        "date": "2024-10-24"
+      },
+      {
         "title": "JS0 + JSSugar not so sweet?",
         "link": "https://javascriptweekly.com/issues/709",
         "date": "2024-10-17"

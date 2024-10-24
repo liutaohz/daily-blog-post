@@ -9,7 +9,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-10-22 21:30，:rocket: 更新条数: +1
+:alarm_clock: 更新时间: 2024-10-25 06:30，:rocket: 更新条数: +1
 
 ## 文章来源
 - [Node-Weekly](#Node-Weekly)
@@ -111,6 +111,7 @@ Node-Weekly
 JavaScript-Weekly
 </summary>
 
+- [2024-10-24-A huge week for both Svelte and Next.js](https://javascriptweekly.com/issues/710)
 - [2024-10-17-JS0 + JSSugar not so sweet?](https://javascriptweekly.com/issues/709)
 - [2024-10-10-A huge week for ECMAScript proposals](https://javascriptweekly.com/issues/708)
 - [2024-10-03-Evan You&#x27;s next big adventure](https://javascriptweekly.com/issues/707)

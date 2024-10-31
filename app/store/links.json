@@ -408,6 +408,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "Cutting JavaScript into two: trick or treat?",
+        "link": "https://javascriptweekly.com/issues/711",
+        "date": "2024-10-31"
+      },
+      {
         "title": "A huge week for both Svelte and Next.js",
         "link": "https://javascriptweekly.com/issues/710",
         "date": "2024-10-24"

@@ -9,7 +9,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-11-04 12:30，:rocket: 更新条数: +1
+:alarm_clock: 更新时间: 2024-11-06 06:30，:rocket: 更新条数: +1
 
 ## 文章来源
 - [Node-Weekly](#Node-Weekly)
@@ -24,6 +24,7 @@
 Node-Weekly
 </summary>
 
+- [2024-11-05-Running WebAssembly apps inside Node.js](https://nodeweekly.com/issues/554)
 - [2024-10-29-Node 22 is now in LTS](https://nodeweekly.com/issues/553)
 - [2024-10-22-Node v23, and a proper hello to Express v5](https://nodeweekly.com/issues/552)
 - [2024-10-15-Jod only knows what Node v22 LTS will be called](https://nodeweekly.com/issues/551)

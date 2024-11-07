@@ -413,6 +413,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "JSConf is back",
+        "link": "https://javascriptweekly.com/issues/712",
+        "date": "2024-11-07"
+      },
+      {
         "title": "Cutting JavaScript into two: trick or treat?",
         "link": "https://javascriptweekly.com/issues/711",
         "date": "2024-10-31"

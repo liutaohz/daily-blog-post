@@ -3,6 +3,11 @@
     "title": "Node-Weekly",
     "items": [
       {
+        "title": "Node v23.2 released",
+        "link": "https://nodeweekly.com/issues/555",
+        "date": "2024-11-12"
+      },
+      {
         "title": "Running WebAssembly apps inside Node.js",
         "link": "https://nodeweekly.com/issues/554",
         "date": "2024-11-05"

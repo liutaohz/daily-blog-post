@@ -9,7 +9,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-11-15 06:30，:rocket: 更新条数: +1
+:alarm_clock: 更新时间: 2024-11-20 06:30，:rocket: 更新条数: +1
 
 ## 文章来源
 - [Node-Weekly](#Node-Weekly)
@@ -24,6 +24,7 @@
 Node-Weekly
 </summary>
 
+- [2024-11-19-Using Node to get ChatGPT on the phone](https://nodeweekly.com/issues/556)
 - [2024-11-12-Node v23.2 released](https://nodeweekly.com/issues/555)
 - [2024-11-05-Running WebAssembly apps inside Node.js](https://nodeweekly.com/issues/554)
 - [2024-10-29-Node 22 is now in LTS](https://nodeweekly.com/issues/553)

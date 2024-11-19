@@ -3,6 +3,11 @@
     "title": "Node-Weekly",
     "items": [
       {
+        "title": "Using Node to get ChatGPT on the phone",
+        "link": "https://nodeweekly.com/issues/556",
+        "date": "2024-11-19"
+      },
+      {
         "title": "Node v23.2 released",
         "link": "https://nodeweekly.com/issues/555",
         "date": "2024-11-12"

@@ -423,6 +423,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "Exploring JavaScript symbols",
+        "link": "https://javascriptweekly.com/issues/714",
+        "date": "2024-11-21"
+      },
+      {
         "title": "Will we care about frameworks in an AI world?",
         "link": "https://javascriptweekly.com/issues/713",
         "date": "2024-11-14"

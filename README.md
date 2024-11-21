@@ -9,7 +9,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-11-20 06:30，:rocket: 更新条数: +1
+:alarm_clock: 更新时间: 2024-11-22 06:30，:rocket: 更新条数: +1
 
 ## 文章来源
 - [Node-Weekly](#Node-Weekly)
@@ -115,6 +115,7 @@ Node-Weekly
 JavaScript-Weekly
 </summary>
 
+- [2024-11-21-Exploring JavaScript symbols](https://javascriptweekly.com/issues/714)
 - [2024-11-14-Will we care about frameworks in an AI world?](https://javascriptweekly.com/issues/713)
 - [2024-11-07-JSConf is back](https://javascriptweekly.com/issues/712)
 - [2024-10-31-Cutting JavaScript into two: trick or treat?](https://javascriptweekly.com/issues/711)

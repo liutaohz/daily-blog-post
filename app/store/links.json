@@ -3,6 +3,11 @@
     "title": "Node-Weekly",
     "items": [
       {
+        "title": "Taking the JavaScript trademark fight to the USPTO",
+        "link": "https://nodeweekly.com/issues/557",
+        "date": "2024-11-26"
+      },
+      {
         "title": "Using Node to get ChatGPT on the phone",
         "link": "https://nodeweekly.com/issues/556",
         "date": "2024-11-19"
